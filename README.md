@@ -1,5 +1,5 @@
 ## Hi,Hallo und Privet 👋
-# |Maugre| (Jakob Kessler)
+# |Maugren| (Jakob Kessler)
 
 Praxisorientierter Quereinsteiger mit Fokus auf Linux, Systemaufbau, modularer Systemlogik und technischer Konzeption.
 
