@@ -1,58 +1,61 @@
-## Hi,Hallo und Privet 👋
+## Hi, hallo and privet 👋
 # |Maugren| (Jakob Kessler)
 
-Praxisorientierter Quereinsteiger mit Fokus auf Linux, Systemaufbau, modularer Systemlogik und technischer Konzeption.
+> English is the primary text on this profile. A German clone is available in `README_DE.md`.
 
-## Über mich
-Ich komme aus der Praxis und verbinde Erfahrung aus Handwerk, Kundenkontakt und verantwortungsvollen Tätigkeiten mit einem wachsenden Schwerpunkt auf Linux, modularer Systemlogik und technischer Konzeption.
+Practice-oriented career changer with a focus on Linux, system structure, modular system logic, and technical conception.
 
-Seit 2025 baue ich autodidaktisch Wissen in Linux, Systemaufbau, Prozessstrukturierung und nachvollziehbarer technischer Ordnung auf.
+## About me
+I come from a practical background and combine experience from craftsmanship, customer contact, and responsible roles with a growing focus on Linux, modular system logic, and technical conception.
 
-## Aktueller Fokus
-- Linux-Grundlagen
-- Systemaufbau
-- Modulare Systemlogik
-- Technische Konzeption
-- Analyse komplexer Abläufe
-- Prozess- und Ablaufdenken
+Since 2025, I have been building knowledge in Linux, system structure, process structuring, and traceable technical order in a self-directed way.
 
-## Projekt
+## Current focus
+- Linux fundamentals
+- System structure
+- Modular system logic
+- Technical conception
+- Analysis of complex processes
+- Process and workflow thinking
+
+## Project
 ### ToF / V’eth
-Eigenständiges Systemprojekt mit Fokus auf:
-- strukturierte Verarbeitung
-- klare technische Trennung
-- nachvollziehbare Abläufe
-- Regelwerk und Schutzlogik
-- modulare Weiterentwicklung
+Independent system project with a focus on:
+- structured processing
+- clear technical separation
+- traceable workflows
+- rule and protection logic
+- modular further development
 
-Schwerpunkte im Projekt:
-- Systemaufbau und Strukturierung komplexer Abläufe
-- Wissensorganisation und technische Dokumentation
-- Entwicklung konsistenter Ordnungs- und Regelstrukturen
-- saubere Trennung von Zuständigkeiten und Ebenen
+Core project emphases:
+- system structure and structuring of complex workflows
+- knowledge organization and technical documentation
+- development of consistent order and rule structures
+- clean separation of responsibilities and layers
 
-## Hintergrund
-### Tischler
-Abgeschlossene Berufsausbildung im Tischlerhandwerk mit Schwerpunkt auf Holzverarbeitung, Fertigung, Montage, Maschinenbedienung und technischer Umsetzung.
+## Background
+### Carpenter
+Completed vocational training in carpentry with a focus on wood processing, fabrication, assembly, machine operation, and technical implementation.
 
-### Fahrlehrer (Klasse BE)
-Fahrlehrer mit Fahrlehrerlaubnis Klasse BE. Schwerpunkte in Verkehrspädagogik, Theorie- und Praxisausbildung, Beobachtung, Anleitung und Lernbegleitung.
+### Driving instructor (Class BE)
+Driving instructor with Class BE instructor qualification. Focus areas include traffic pedagogy, theory and practical instruction, observation, guidance, and learning support.
 
-### Weitere Praxis
-Erfahrung in Kundenservice, Kassenführung und strukturiertem Arbeiten im Einzelhandel.
+### Additional practice
+Experience in customer service, cash handling, and structured work in retail.
 
-## Arbeitsweise
-- klar
-- strukturiert
-- praxisnah
-- systemorientiert
-- lernbereit
-- verantwortungsbewusst
+## Working style
+- clear
+- structured
+- practical
+- system-oriented
+- eager to learn
+- responsible
 
-## Aktuelles Lernen
+## Current learning
 - The Linux Foundation – Introduction to Linux (LFS101x)
-- technische Grundlagen systematischer Linux-Arbeit
-- modulare Architektur- und Ordnungslogik
+- technical foundations of systematic Linux work
+- modular architecture and order logic
 
-## Kontakt
-- LinkedIn: www.linkedin.com/in/jakob-kessler-595b393b7
+## Contact
+- LinkedIn: [Jakob Kessler](https://www.linkedin.com/in/jakob-kessler-595b393b7)
+- GitHub: [IMaugrenI](https://github.com/IMaugrenI)
