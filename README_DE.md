@@ -1,61 +1,46 @@
-## Hi, hallo und privet 👋
-# |Maugren| (Jakob Kessler)
+![GitHub banner](assets/github_banner.svg)
 
-> Englisch ist der Primärtext dieses Profils. Ein deutscher Klon liegt in `README_DE.md`.
+# Jakob Kessler  
+Linux · Systemarchitektur · Modulares Design  
+Building ToF / V’eth — modulare Systeme, Governance, Safety und nachvollziehbare Workflows.
 
-Praxisorientierter Quereinsteiger mit Fokus auf Linux, Systemaufbau, modularer Systemlogik und technischer Konzeption.
+## ToF in 30 Sekunden
 
-## Über mich
-Ich komme aus der Praxis und verbinde Erfahrung aus Handwerk, Kundenkontakt und verantwortungsvollen Tätigkeiten mit einem wachsenden Schwerpunkt auf Linux, modularer Systemlogik und technischer Konzeption.
-
-Seit 2025 baue ich autodidaktisch Wissen in Linux, Systemaufbau, Prozessstrukturierung und nachvollziehbarer technischer Ordnung auf.
+- **ToF** = technischer Kern und Systemarchitektur  
+- **V’eth** = Identitäts-, Ausdrucks- und Spiegelschicht  
+- **Fokus** = modulares Design, Safety, Governance und nachvollziehbare Workflows  
 
 ## Aktueller Fokus
-- Linux-Grundlagen
-- Systemaufbau
-- Modulare Systemlogik
-- Technische Konzeption
-- Analyse komplexer Abläufe
-- Prozess- und Ablaufdenken
 
-## Projekt
-### ToF / V’eth
-Eigenständiges Systemprojekt mit Fokus auf:
-- strukturierte Verarbeitung
-- klare technische Trennung
-- nachvollziehbare Abläufe
-- Regelwerk und Schutzlogik
-- modulare Weiterentwicklung
+- Linux
+- Systemstruktur
+- modulare Architekturen
+- Repo-Disziplin
+- öffentliche Projekt-Rahmen
+- lokale Builder-Workflows
 
-Schwerpunkte im Projekt:
-- Systemaufbau und Strukturierung komplexer Abläufe
-- Wissensorganisation und technische Dokumentation
-- Entwicklung konsistenter Ordnungs- und Regelstrukturen
-- saubere Trennung von Zuständigkeiten und Ebenen
+## Ausgewählte Repositories
 
-## Hintergrund
-### Tischler
-Abgeschlossene Berufsausbildung im Tischlerhandwerk mit Schwerpunkt auf Holzverarbeitung, Fertigung, Montage, Maschinenbedienung und technischer Umsetzung.
-
-### Fahrlehrer (Klasse BE)
-Fahrlehrer mit Fahrlehrerlaubnis Klasse BE. Schwerpunkte in Verkehrspädagogik, Theorie- und Praxisausbildung, Beobachtung, Anleitung und Lernbegleitung.
-
-### Weitere Praxis
-Erfahrung in Kundenservice, Kassenführung und strukturiertem Arbeiten im Einzelhandel.
+- [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) — öffentlicher Einstiegspunkt in die größere Projektlinie und ihre technische Richtung.
+- [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — lokaler Builder-Stack für Repo-Arbeit, Prompts, sichere Sandbox-Workflows und editorbasierte Experimente.
+- [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame) — reduzierter öffentlicher Rahmen, der V7 als strukturiertes System mit klaren Raumgrenzen erklärt.
+- [`tof-werkbank-method`](https://github.com/IMaugrenI/tof-werkbank-method) — öffentliches Methoden-Repo zum Lesen, Trennen und Vorbereiten von Altmaterial in wiederverwendbare Bausteine.
+- [`tof-vorplanung-method`](https://github.com/IMaugrenI/tof-vorplanung-method) — öffentliches Brücken-Planungs-Repo, das vorbereitete Bausteine in spätere Zielkandidaten weiterführt.
 
 ## Arbeitsweise
-- klar
-- strukturiert
-- praxisnah
-- systemorientiert
-- lernbereit
-- verantwortungsbewusst
 
-## Aktuelles Lernen
-- The Linux Foundation – Introduction to Linux (LFS101x)
-- technische Grundlagen systematischer Linux-Arbeit
-- modulare Architektur- und Ordnungslogik
+- klare Grenzen
+- Quelle vor Deutung
+- modulares Denken
+- Dokumentationsdisziplin
+- strukturierter Systembau
+
+## Hintergrund
+
+Autodidaktischer Builder mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Arbeitsabläufen.  
+Aktueller Schwerpunkt ist der Übergang in technische Systeme, Linux und architekturorientierte Projektarbeit.
 
 ## Kontakt
+
 - LinkedIn: [Jakob Kessler](https://www.linkedin.com/in/jakob-kessler-595b393b7)
 - GitHub: [IMaugrenI](https://github.com/IMaugrenI)
