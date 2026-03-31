@@ -1,4 +1,4 @@
-![GitHub banner](assets/assets/Bildschirmfoto vom 2026-03-31 13-12-39.png)
+![GitHub banner](assets/Bildschirmfoto vom 2026-03-31 13-12-39.png)
 
 # Jakob Kessler  
 Linux · System Architecture · Modular Design  
