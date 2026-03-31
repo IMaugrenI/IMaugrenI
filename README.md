@@ -37,7 +37,7 @@ Building ToF / V’eth — modular systems, governance, safety, and traceable wo
 
 ## Background
 
-Autodidactic builder with a practical background in craftsmanship, instruction, and structured operations.  
+Self-taught builder with a practical background in craftsmanship, instruction, and structured operations.  
 Currently focused on the transition into technical systems, Linux, and architecture-oriented project work.
 
 ## Contact
