@@ -1,5 +1,4 @@
-![GitHub banner](assets/Bildschirmfoto%20vom%202026-03-31%2013-12-39.png)
-
+![GitHub banner](asstes/ToF_Banner.png)
 # Jakob Kessler  
 Linux · Systemarchitektur · Modulares Design  
 Building ToF / V’eth — modulare Systeme, Governance, Safety und nachvollziehbare Workflows.
