@@ -16,6 +16,10 @@ Empfohlene Reihenfolge für angepinnte Repositories:
 5. tof-vorplanung-method
 6. später ein kleines Demo- oder Utility-Repo
 
-Zusatz:
-- Die aktuellen Banner- und Avatar-Assets im Repo sind saubere Platzhalter im `assets/`-Ordner.
-- Wenn du deine finalen Profilbilder nutzen willst, ersetze sie unter denselben Dateinamen.
+Aktuelle Asset-Dateien im Repo:
+- `assets/github_banner.jpg`
+- `assets/github_avatar_source.jpg`
+
+Hinweis:
+- Banner ist bereits im README eingebunden.
+- Das Avatar-Bild muss direkt manuell bei GitHub hochgeladen werden.
