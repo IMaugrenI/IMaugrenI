@@ -1,4 +1,4 @@
-![GitHub banner](assets/github_banner.jpg)
+![GitHub banner](assets/54DF32F4-55A2-49D0-BA0D-267121D2AE5F.jpeg)
 
 # Jakob Kessler  
 Linux · System Architecture · Modular Design  
