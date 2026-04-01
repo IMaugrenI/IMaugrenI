@@ -12,13 +12,25 @@ Building structured local/on-prem systems, architecture-oriented project spaces,
 - self-taught builder with a practical background in craftsmanship, instruction, and structured operations
 - public focus on Linux, modular service design, repo discipline, and local-first/on-prem workflows
 - building project spaces around architecture, safe boundaries, documentation, and controlled public framing
+- public repositories are selected public-safe slices of a broader private ToF / V’eth main project line
 
 ## How to read this profile
 
 - **`tof-showcase`** = public-facing frame for the broader project line
 - **`tof_local_builder`** = runnable local builder stack with read-only source boundaries and sandbox output
 - **`tof_local_knowledge`** = on-prem knowledge system for local document indexing, search, and grounded QA
-- **method repos** = public explanation of how legacy material, planning, and separation are handled
+- **method repos** = public-safe method slices for legacy recovery, bridge-planning, and layer separation
+
+## Main project context
+
+The public repositories on this profile are not random fragments.
+
+They are deliberate public-safe slices of a larger private ToF / V’eth line that includes architecture work, runtime iteration, smoke and verification culture, and staged development across older and newer versions.
+
+Current public growth is expected to be most visible in:
+
+- `tof_local_builder`
+- `tof_local_knowledge`
 
 ## Current public focus
 
@@ -35,8 +47,8 @@ Building structured local/on-prem systems, architecture-oriented project spaces,
 - [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — local builder for read-only repo access, reviewed artifacts, and GUI-based experimentation.
 - [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) — local knowledge and document system for indexing, search, and evidence-based answers.
 - [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame) — reduced public frame for boundaries and layer separation.
-- [`tof-werkbank-method`](https://github.com/IMaugrenI/tof-werkbank-method) — public method repo for reading and separating legacy material.
-- [`tof-vorplanung-method`](https://github.com/IMaugrenI/tof-vorplanung-method) — public bridge-planning method repo for preparing later target candidates.
+- [`tof-legacy-recovery-workbench`](https://github.com/IMaugrenI/tof-legacy-recovery-workbench) — public method repo for reading and separating legacy material.
+- [`tof-bridge-planning-method`](https://github.com/IMaugrenI/tof-bridge-planning-method) — public bridge-planning method repo for preparing later target candidates.
 
 ## Working style
 
