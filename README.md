@@ -9,7 +9,7 @@ Building structured local/on-prem systems, architecture-oriented project spaces,
 
 ## At a glance
 
-- self-taught builder with a practical background in craftsmanship, instruction, and structured operations
+- self-taught solo builder without a formal IT background, with a practical background in craftsmanship, instruction, and structured operations
 - public focus on Linux, modular service design, repo discipline, and local-first/on-prem workflows
 - building project spaces around architecture, safe boundaries, documentation, and controlled public framing
 - public repositories are selected public-safe slices of a broader private ToF / V’eth main project line
@@ -71,7 +71,7 @@ The system has been built solo, in an autodidactic process, without a formal IT 
 
 ## Background
 
-Self-taught builder with a practical background in craftsmanship, instruction, and structured operations.
+Self-taught solo builder without a formal IT background, with a practical background in craftsmanship, instruction, and structured operations.
 Currently focused on the transition into technical systems, Linux, and architecture-oriented project work.
 
 ## Contact

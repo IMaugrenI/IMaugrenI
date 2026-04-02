@@ -7,7 +7,7 @@ Ich baue strukturierte lokale / on-prem Systeme, architekturorientierte Projektr
 
 ## Kurzüberblick
 
-- autodidaktischer Builder mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Abläufen
+- autodidaktischer Solo-Builder ohne IT-Hintergrund, mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Abläufen
 - öffentlicher Fokus auf Linux, modulare Service-Strukturen, Repo-Disziplin und local-first / on-prem Workflows
 - Aufbau von Projekträumen rund um Architektur, saubere Grenzen, Dokumentation und kontrollierte öffentliche Darstellung
 - öffentliche Repositories sind bewusst freigelegte, öffentlich sichere Ausschnitte einer größeren privaten ToF / V’eth-Projektlinie
@@ -69,7 +69,7 @@ Das System wurde von mir allein aufgebaut – autodidaktisch und ohne IT-Hinterg
 
 ## Hintergrund
 
-Autodidaktischer Builder mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Abläufen.
+Autodidaktischer Solo-Builder ohne IT-Hintergrund, mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Abläufen.
 Aktuell liegt mein Schwerpunkt auf dem Übergang in technische Systeme, Linux und architekturorientierte Projektarbeit.
 
 ## Kontakt
