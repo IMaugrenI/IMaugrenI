@@ -32,6 +32,16 @@ Current public growth is expected to be most visible in:
 - `tof_local_builder`
 - `tof_local_knowledge`
 
+## Private core system context
+
+Behind the public repositories sits a private core system that has been running since March 2025.
+
+It runs on my own Linux server, currently spans around 52 Docker containers, and follows a modular architecture with clearly separated responsibilities. That includes technical structure, a governance core, an ethics layer, runtime handling, and a Hot / Warm / Cold retention model.
+
+Discord and Telegram are integrated as external interaction spaces. On top of that, a DnD game world exists as one application layer within the broader project line.
+
+The system has been built solo, in an autodidactic process, without a formal IT background. The public repositories on this profile therefore show only selected, public-safe and deliberately reduced slices of a much larger private project context.
+
 ## Current public focus
 
 - Linux

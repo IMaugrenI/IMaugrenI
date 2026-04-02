@@ -30,6 +30,16 @@ Sie sind bewusste, öffentlich sichere Ausschnitte einer größeren privaten ToF
 - `tof_local_builder`
 - `tof_local_knowledge`
 
+## Privates Kernsystem
+
+Hinter den öffentlichen Repositories steht ein privates Kernsystem, das seit März 2025 läuft.
+
+Es läuft auf meinem eigenen Linux-Server, umfasst derzeit rund 52 Docker-Container und folgt einer modularen Architektur mit klar getrennten Zuständigkeiten. Dazu gehören technische Struktur, Governance-Kern, Ethics Layer, Laufzeitlogik sowie ein Hot-/Warm-/Cold-Retention-System.
+
+Discord und Telegram sind als externe Interaktionsräume angebunden. Darüber liegt unter anderem eine DnD-Spielwelt als eigene Anwendungsschicht innerhalb der größeren Projektlinie.
+
+Das System wurde von mir allein aufgebaut – autodidaktisch und ohne IT-Hintergrund. Die öffentlichen Repositories auf diesem Profil zeigen deshalb nur ausgewählte, öffentliche und bewusst reduzierte Ausschnitte eines deutlich größeren privaten Gesamtprojekts.
+
 ## Aktueller öffentlicher Fokus
 
 - Linux
