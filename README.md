@@ -42,6 +42,17 @@ Discord and Telegram are integrated as external interaction spaces. On top of th
 
 The system has been built solo, in an autodidactic process, without a formal IT background. The public repositories on this profile therefore show only selected, public-safe and deliberately reduced slices of a much larger private project context.
 
+## Built so far
+
+- private runtime active since March 2025
+- runs on my own Linux server
+- currently around 52 Docker containers
+- modular system line with governance core and ethics layer
+- Hot / Warm / Cold retention model
+- Discord and Telegram integrations as outer interfaces
+- DnD game world as one application layer
+- built solo, self-taught, without a formal IT background
+
 ## Current public focus
 
 - Linux

@@ -40,6 +40,17 @@ Discord und Telegram sind als externe Interaktionsräume angebunden. Darüber li
 
 Das System wurde von mir allein aufgebaut – autodidaktisch und ohne IT-Hintergrund. Die öffentlichen Repositories auf diesem Profil zeigen deshalb nur ausgewählte, öffentliche und bewusst reduzierte Ausschnitte eines deutlich größeren privaten Gesamtprojekts.
 
+## Bisher gebaut
+
+- privates Laufzeitsystem aktiv seit März 2025
+- Betrieb auf eigenem Linux-Server
+- aktuell rund 52 Docker-Container
+- modulare Systemlinie mit Governance-Kern und Ethics Layer
+- Hot-/Warm-/Cold-Retention-Modell
+- Discord- und Telegram-Anbindung als Außenschnittstellen
+- DnD-Spielwelt als eine Anwendungsschicht
+- allein gebaut, autodidaktisch, ohne IT-Hintergrund
+
 ## Aktueller öffentlicher Fokus
 
 - Linux
