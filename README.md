@@ -1,4 +1,4 @@
-![GitHub banner](/asstes/ToF_Banner.png)
+![GitHub banner](/assets/ToF_Banner.png)
 
 # Jakob Kessler
 Linux · System Architecture · Local-First Systems · Modular Design
