@@ -21,6 +21,15 @@ Building structured local/on-prem systems, architecture-oriented project spaces,
 - **`tof_local_knowledge`** = on-prem knowledge system for local document indexing, search, and grounded QA
 - **method repos** = public-safe method slices for legacy recovery, bridge-planning, and layer separation
 
+## Where to start
+
+For the cleanest public entry path, use this order:
+
+1. [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) — broad public frame and project entry
+2. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — runnable local builder product
+3. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) — runnable local knowledge product
+4. method and frame repos afterwards for narrower readings and supporting patterns
+
 ## Main project context
 
 The public repositories on this profile are not random fragments.
