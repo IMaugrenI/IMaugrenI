@@ -1,3 +1,5 @@
+![GitHub banner](/assets/ToF_Banner.png)
+
 # Jakob Kessler
 Linux · Systemarchitektur · Local-First-Systeme · Modulares Design
 
@@ -18,6 +20,15 @@ Ich baue strukturierte lokale / on-prem Systeme, architekturorientierte Projektr
 - **`tof_local_builder`** = lauffähiger lokaler Builder mit read-only Quellgrenzen und Sandbox-Ausgabe
 - **`tof_local_knowledge`** = on-prem Wissenssystem für lokale Dokumente, Suche und belegte Antworten
 - **Methoden-Repos** = öffentlich sichere Methoden-Ausschnitte für Legacy-Recovery, Vorplanung und Schichttrennung
+
+## Einstieg
+
+Für den saubersten öffentlichen Einstieg nutze diese Reihenfolge:
+
+1. [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) — breiter öffentlicher Rahmen und Projekteinstieg
+2. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — lauffähiges lokales Builder-Produkt
+3. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) — lauffähiges lokales Wissensprodukt
+4. danach die Methoden- und Frame-Repos für engere Lesarten und ergänzende Muster
 
 ## Hauptprojektkontext
 
