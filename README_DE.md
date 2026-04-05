@@ -1,8 +1,8 @@
 # Jakob Kessler
 Lokale_KI_Systeme · Linux · Docker · Modulare_Architektur
 
-Ich baue local_first KI_, Builder_ und Wissenssysteme auf eigener Hardware.
-Mein Fokus liegt auf sicherer Dokumentenarbeit, kontrollierten Experimenten und nachvollziehbaren Workflows mit klaren Grenzen.
+Ich baue local_first KI_Systeme, Builder_Tools und Wissenssysteme auf eigener Hardware.
+Mein Fokus liegt auf sicherer_Dokumentenarbeit, kontrollierten Experimenten und nachvollziehbaren Workflows mit klaren Grenzen.
 
 > English version: `README.md`
 
@@ -30,7 +30,7 @@ Mein Fokus liegt auf sicherer Dokumentenarbeit, kontrollierten Experimenten und 
 
 ## was_ich_baue
 
-Ich arbeite an lokalen KI_Systemen, die auf Hardware unter eigener Kontrolle laufen.
+Ich arbeite an lokalen KI_Systemen, die auf Hardware unter eigener_Kontrolle laufen.
 
 Dazu gehören:
 

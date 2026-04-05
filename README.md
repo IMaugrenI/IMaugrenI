@@ -1,8 +1,8 @@
 # Jakob Kessler
 Local_AI_Systems · Linux · Docker · Modular_Architecture
 
-I build local_first AI, builder, and knowledge systems on my own hardware.
-My focus is safe document work, controlled experimentation, and reproducible workflows with clear boundaries.
+I build local_first AI systems, builder_tools, and knowledge systems on my own hardware.
+My focus is safe_document_work, controlled experimentation, and reproducible workflows with clear boundaries.
 
 > German version: `README_DE.md`
 
@@ -30,7 +30,7 @@ My focus is safe document work, controlled experimentation, and reproducible wor
 
 ## what_i_build
 
-I work on local AI systems that stay on user controlled hardware.
+I work on local AI systems that stay on user_controlled hardware.
 
 That includes:
 
