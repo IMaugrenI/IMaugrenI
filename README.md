@@ -2,10 +2,10 @@
 Local_AI_Systems · Linux · Docker · Modular_Architecture
 
 I build local_first AI systems on my own hardware.
-My work centers on safe_document_work, clear system boundaries, and reproducible workflows.
+I focus on turning complex ideas into structured, reproducible, and practical systems.
 
 I am a self_taught builder with a practical background in craftsmanship, instruction, and structured operations.
-Today my focus is Linux, Docker, local AI tooling, and modular architecture work.
+Today my work centers on Linux, Docker, local AI tooling, document workflows, and modular system design.
 
 > German version: `README_DE.md`
 
@@ -23,17 +23,13 @@ Today my focus is Linux, Docker, local AI tooling, and modular architecture work
 4. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)
    Public V7 frame with explicit boundaries between spaces and layers
 
-## what_i_build
+## what_i_do
 
-I build systems that stay on user_controlled hardware.
-
-That includes:
-
-1. local builder workflows
-2. local document and knowledge systems
-3. modular architecture work
-4. controlled runtime boundaries
-5. public_safe documentation of selected system parts
+1. build local AI and document workflows
+2. design modular services with clear boundaries
+3. turn mixed ideas into structured systems and usable documentation
+4. work hands_on with Linux, Docker, and self_hosted setups
+5. document systems so they can be understood, reviewed, and continued
 
 ## proof_of_work
 
@@ -51,21 +47,28 @@ That includes:
 4. documentation and verification discipline
 5. controlled public disclosure
 
-## for_recruiters
+## for_employers
 
-If you want the clearest public proof first:
+If you want to evaluate my work quickly:
 
 1. start with `tof_local_builder`
 2. continue with `tof_local_knowledge`
 3. use `tof_showcase` for the broader architecture reading
 4. use `tof_v7_public_frame` for the reduced V7 boundary reading
 
+What you will see:
+
+1. hands_on Linux and Docker work
+2. clear system structure and repo discipline
+3. product_minded thinking with boundaries and documentation
+4. a self_taught builder who can move from idea to working system
+
 ## background
 
 I did not come from a formal IT path.
-I built my way into this through practice, structure, and continuous iteration.
+I built my way into this field through practice, structure, and continuous iteration.
 
-My public repositories are selected public_safe slices of a broader private ToF / V’eth project line.
+My public repositories are selected public_safe slices of a broader private project line.
 The strongest public proof today is `tof_local_builder` and `tof_local_knowledge`.
 
 ## contact

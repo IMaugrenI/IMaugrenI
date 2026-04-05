@@ -2,10 +2,10 @@
 Lokale_KI_Systeme · Linux · Docker · Modulare_Architektur
 
 Ich baue local_first KI_Systeme auf meiner eigenen Hardware.
-Im Mittelpunkt meiner Arbeit stehen sichere_Dokumentenarbeit, klare Systemgrenzen und nachvollziehbare Workflows.
+Ich konzentriere mich darauf, komplexe Ideen in strukturierte, nachvollziehbare und praktisch nutzbare Systeme zu verwandeln.
 
 Ich bin ein autodidaktischer Builder mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Abläufen.
-Mein heutiger Schwerpunkt liegt auf Linux, Docker, lokalen KI_Werkzeugen und modularer Architekturarbeit.
+Mein heutiger Schwerpunkt liegt auf Linux, Docker, lokalen KI_Werkzeugen, Dokumenten_Workflows und modularer Systemarchitektur.
 
 > English version: `README.md`
 
@@ -23,17 +23,13 @@ Mein heutiger Schwerpunkt liegt auf Linux, Docker, lokalen KI_Werkzeugen und mod
 4. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)
    Öffentlicher V7_Rahmen mit klaren Grenzen zwischen Räumen und Ebenen
 
-## was_ich_baue
+## was_ich_mache
 
-Ich baue Systeme, die auf Hardware unter eigener_Kontrolle bleiben.
-
-Dazu gehören:
-
-1. lokale Builder_Workflows
-2. lokale Dokumenten_ und Wissenssysteme
-3. modulare Architekturarbeit
-4. kontrollierte Laufzeitgrenzen
-5. bewusst öffentliche Dokumentation ausgewählter Systemteile
+1. ich baue lokale KI_ und Dokumenten_Workflows
+2. ich entwerfe modulare Dienste mit klaren Grenzen
+3. ich forme gemischte Ideen zu strukturierten Systemen und nutzbarer Dokumentation
+4. ich arbeite hands_on mit Linux, Docker und self_hosted Setups
+5. ich dokumentiere Systeme so, dass sie verstanden, geprüft und weitergeführt werden können
 
 ## proof_of_work
 
@@ -51,14 +47,21 @@ Dazu gehören:
 4. Dokumentations_ und Verifikationsdisziplin
 5. kontrollierte Offenlegung
 
-## fuer_recruiter
+## fuer_arbeitgeber
 
-Wenn du die stärksten öffentlichen Belege zuerst sehen willst:
+Wenn du meine Arbeit schnell einschätzen willst:
 
 1. starte mit `tof_local_builder`
 2. geh danach zu `tof_local_knowledge`
 3. nutze `tof_showcase` für die breitere Architektursicht
 4. nutze `tof_v7_public_frame` für die reduzierte V7_Grenzlesart
+
+Was du dort sehen wirst:
+
+1. hands_on Arbeit mit Linux und Docker
+2. klare Systemstruktur und Repo_Disziplin
+3. produktorientiertes Denken mit Grenzen und Dokumentation
+4. einen autodidaktischen Builder, der von der Idee zum funktionierenden System gehen kann
 
 ## hintergrund
 
