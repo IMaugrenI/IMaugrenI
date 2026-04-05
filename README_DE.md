@@ -1,8 +1,11 @@
 # Jakob Kessler
 Lokale_KI_Systeme · Linux · Docker · Modulare_Architektur
 
-Ich baue local_first KI_Systeme, Builder_Tools und Wissenssysteme auf eigener Hardware.
-Mein Fokus liegt auf sicherer_Dokumentenarbeit, kontrollierten Experimenten und nachvollziehbaren Workflows mit klaren Grenzen.
+Ich baue local_first KI_Systeme auf meiner eigenen Hardware.
+Im Mittelpunkt meiner Arbeit stehen sichere_Dokumentenarbeit, klare Systemgrenzen und nachvollziehbare Workflows.
+
+Ich bin ein autodidaktischer Builder mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Abläufen.
+Mein heutiger Schwerpunkt liegt auf Linux, Docker, lokalen KI_Werkzeugen und modularer Architekturarbeit.
 
 > English version: `README.md`
 
@@ -20,17 +23,9 @@ Mein Fokus liegt auf sicherer_Dokumentenarbeit, kontrollierten Experimenten und 
 4. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)
    Öffentlicher V7_Rahmen mit klaren Grenzen zwischen Räumen und Ebenen
 
-## proof_of_work
-
-1. Privates Laufzeitsystem aktiv seit März 2025
-2. Aufbau und Betrieb auf meinem eigenen Linux_Server
-3. Rund 52 Docker_Container in der breiteren privaten Systemlinie
-4. Öffentliche Produkt_Ausschnitte bereits sichtbar über `tof_local_builder` und `tof_local_knowledge`
-5. Discord_ und Telegram_Anbindungen existieren im größeren privaten Projektkontext
-
 ## was_ich_baue
 
-Ich arbeite an lokalen KI_Systemen, die auf Hardware unter eigener_Kontrolle laufen.
+Ich baue Systeme, die auf Hardware unter eigener_Kontrolle bleiben.
 
 Dazu gehören:
 
@@ -40,14 +35,15 @@ Dazu gehören:
 4. kontrollierte Laufzeitgrenzen
 5. bewusst öffentliche Dokumentation ausgewählter Systemteile
 
-## fuer_recruiter
+## proof_of_work
 
-1. Autodidaktischer System_Builder ohne formalen IT_Hintergrund
-2. Starker Fokus auf Linux, Docker, lokale KI_Werkzeuge und architekturorientierte Systemarbeit
-3. Stärkste öffentliche Belege aktuell: `tof_local_builder` und `tof_local_knowledge`
-4. Praktischer Hintergrund in Handwerk, Anleitung und strukturierten Abläufen
+1. Privates Laufzeitsystem aktiv seit März 2025
+2. Aufbau und Betrieb auf meinem eigenen Linux_Server
+3. Rund 52 Docker_Container in der breiteren privaten Systemlinie
+4. Öffentliche Produkt_Ausschnitte bereits sichtbar über `tof_local_builder` und `tof_local_knowledge`
+5. Discord_ und Telegram_Anbindungen existieren im größeren privaten Projektkontext
 
-## arbeitsstil
+## wie_ich_arbeite
 
 1. quelle_vor_interpretation
 2. klare Trennung zwischen Runtime, Planung, Archiv und öffentlichem Rahmen
@@ -55,11 +51,22 @@ Dazu gehören:
 4. Dokumentations_ und Verifikationsdisziplin
 5. kontrollierte Offenlegung
 
+## fuer_recruiter
+
+Wenn du die stärksten öffentlichen Belege zuerst sehen willst:
+
+1. starte mit `tof_local_builder`
+2. geh danach zu `tof_local_knowledge`
+3. nutze `tof_showcase` für die breitere Architektursicht
+4. nutze `tof_v7_public_frame` für die reduzierte V7_Grenzlesart
+
 ## hintergrund
 
-Ich bin ein autodidaktischer Solo_Builder mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Abläufen.
+Ich komme nicht aus einem formalen IT_Weg.
+Ich habe mich durch Praxis, Struktur und ständige Weiterentwicklung in dieses Feld hineingearbeitet.
 
-Mein aktueller Schwerpunkt liegt auf Linux, lokalen KI_Systemen, modularen Architekturen und dem Übergang in technische Systemarbeit.
+Meine öffentlichen Repositories sind bewusst freigelegte Ausschnitte einer größeren privaten Projektlinie.
+Die stärksten öffentlichen Belege sind aktuell `tof_local_builder` und `tof_local_knowledge`.
 
 ## kontakt
 
