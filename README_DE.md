@@ -1,57 +1,67 @@
 # Jakob Kessler
-Lokale KI-Systeme · Linux · Docker · Modulare Architektur
+Lokale_KI_Systeme · Linux · Docker · Modulare_Architektur
 
-Ich baue local-first KI-, Builder- und Wissenssysteme auf eigener Hardware — mit klaren Grenzen, nachvollziehbaren Workflows und bewusst öffentlicher Dokumentation.
+Ich baue local_first KI_, Builder_ und Wissenssysteme auf eigener Hardware.
+Mein Fokus liegt auf sicherer Dokumentenarbeit, kontrollierten Experimenten und nachvollziehbaren Workflows mit klaren Grenzen.
 
 > English version: `README.md`
 
-## Was bereits existiert
+## start_here
 
-- privates Laufzeitsystem aktiv seit März 2025
-- läuft auf meinem eigenen Linux-Server
-- rund 52 Docker-Container in der breiteren privaten Systemlinie
-- öffentlicher lokaler Builder-Stack
-- öffentliches lokales Wissens- und Dokumentensystem
-- Discord- und Telegram-Anbindungen im größeren privaten Projektkontext
+1. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder)
+   Lokaler KI_Builder mit read_only Quellgrenzen und Sandbox_Ausgabe
 
-## Einstieg
+2. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge)
+   Lokale Dokumenten_Indexierung, Evidenzsuche und belegte Antworten
 
-- [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — lokaler KI-Builder mit read-only Quellgrenzen und Sandbox-Ausgabe
-- [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) — lokale Dokumenten-Indexierung, Suche und belegte Antworten
-- [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) — öffentlicher Architekturüberblick über die breitere Projektlinie
-- [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame) — reduzierter öffentlicher Rahmen für Grenzen, Ebenen und die V7-Lesart
-- danach die Methoden-Repos für Legacy-Recovery, Vorplanung und Trennlogik
+3. [`tof_showcase`](https://github.com/IMaugrenI/tof-showcase)
+   Öffentlicher Architektur_Einstieg in die breitere Projektlinie
 
-## Für Recruiter / Nicht-Techniker
+4. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)
+   Öffentlicher V7_Rahmen mit klaren Grenzen zwischen Räumen und Ebenen
 
-- autodidaktischer System-Builder ohne formalen IT-Hintergrund
-- Fokus auf Linux, Docker, lokale KI-Werkzeuge, Dokumentensuche und architekturorientierte Systemarbeit
-- öffentliche Repositories sind bewusst freigelegte, öffentliche Ausschnitte einer größeren privaten ToF / V’eth-Projektlinie
-- stärkste öffentliche Belege aktuell: `tof_local_builder` und `tof_local_knowledge`
+## proof_of_work
 
-## Ausgewählte öffentliche Repositories
+1. Privates Laufzeitsystem aktiv seit März 2025
+2. Aufbau und Betrieb auf meinem eigenen Linux_Server
+3. Rund 52 Docker_Container in der breiteren privaten Systemlinie
+4. Öffentliche Produkt_Ausschnitte bereits sichtbar über `tof_local_builder` und `tof_local_knowledge`
+5. Discord_ und Telegram_Anbindungen existieren im größeren privaten Projektkontext
 
-- [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — lokaler GUI-first Builder für kontrollierte Experimente, read-only Quellzugriff und Sandbox-Ausgabe
-- [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) — on-prem Wissenssystem für Dokumenten-Indexierung, Evidenzsuche und belegte Antworten
-- [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) — öffentlicher Projektrahmen und architekturorientierter Einstiegspunkt
-- [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame) — reduzierter öffentlicher V7-Rahmen mit klarer Ebenentrennung
-- [`tof-legacy-recovery-workbench`](https://github.com/IMaugrenI/tof-legacy-recovery-workbench) — öffentliche Methode zum Lesen älterer gemischter Materialien und zum Trennen wiederverwendbarer Substanz
-- [`tof-bridge-planning-method`](https://github.com/IMaugrenI/tof-bridge-planning-method) — öffentliche Brückenmethode zur Vorbereitung von Zielkandidaten ohne Runtime-Behauptung
+## was_ich_baue
 
-## Arbeitsstil
+Ich arbeite an lokalen KI_Systemen, die auf Hardware unter eigener Kontrolle laufen.
 
-- Quelle vor Interpretation
-- klare Trennung zwischen Runtime, Planung, Archiv und öffentlichem Rahmen
-- modulares Service-Denken
-- Dokumentations- und Verifikationsdisziplin
-- kontrollierte Offenlegung
+Dazu gehören:
 
-## Hintergrund
+1. lokale Builder_Workflows
+2. lokale Dokumenten_ und Wissenssysteme
+3. modulare Architekturarbeit
+4. kontrollierte Laufzeitgrenzen
+5. bewusst öffentliche Dokumentation ausgewählter Systemteile
 
-Autodidaktischer Solo-Builder mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Abläufen.
-Aktuell liegt mein Schwerpunkt auf Linux, lokalen KI-Systemen, modularen Architekturen und dem Übergang in technische Systemarbeit.
+## fuer_recruiter
 
-## Kontakt
+1. Autodidaktischer System_Builder ohne formalen IT_Hintergrund
+2. Starker Fokus auf Linux, Docker, lokale KI_Werkzeuge und architekturorientierte Systemarbeit
+3. Stärkste öffentliche Belege aktuell: `tof_local_builder` und `tof_local_knowledge`
+4. Praktischer Hintergrund in Handwerk, Anleitung und strukturierten Abläufen
 
-- LinkedIn: [Jakob Kessler](https://www.linkedin.com/in/jakob-kessler-595b393b7)
-- GitHub: [IMaugrenI](https://github.com/IMaugrenI)
+## arbeitsstil
+
+1. quelle_vor_interpretation
+2. klare Trennung zwischen Runtime, Planung, Archiv und öffentlichem Rahmen
+3. modulares Service_Denken
+4. Dokumentations_ und Verifikationsdisziplin
+5. kontrollierte Offenlegung
+
+## hintergrund
+
+Ich bin ein autodidaktischer Solo_Builder mit praktischem Hintergrund in Handwerk, Anleitung und strukturierten Abläufen.
+
+Mein aktueller Schwerpunkt liegt auf Linux, lokalen KI_Systemen, modularen Architekturen und dem Übergang in technische Systemarbeit.
+
+## kontakt
+
+LinkedIn: [Jakob Kessler](https://www.linkedin.com/in/jakob-kessler-595b393b7)
+GitHub: [IMaugrenI](https://github.com/IMaugrenI)
