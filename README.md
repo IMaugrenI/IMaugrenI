@@ -1,98 +1,55 @@
-![GitHub banner](/assets/ToF_Banner.png)
-
 # Jakob Kessler
-Linux · System Architecture · Local-First Systems · Modular Design
+Local AI Systems · Linux · Docker · Modular Architecture
 
-Building structured local/on-prem systems, architecture-oriented project spaces, and traceable workflows.
+I build local-first AI, builder, and knowledge systems on my own hardware — with clear boundaries, reproducible workflows, and public-safe documentation.
 
 > German version: `README_DE.md`
 
-## At a glance
-
-- self-taught solo builder without a formal IT background, with a practical background in craftsmanship, instruction, and structured operations
-- public focus on Linux, modular service design, repo discipline, and local-first/on-prem workflows
-- building project spaces around architecture, safe boundaries, documentation, and controlled public framing
-- public repositories are selected public-safe slices of a broader private ToF / V’eth main project line
-
-## How to read this profile
-
-- **`tof-showcase`** = public-facing frame for the broader project line
-- **`tof_local_builder`** = runnable local builder stack with read-only source boundaries and sandbox output
-- **`tof_local_knowledge`** = on-prem knowledge system for local document indexing, search, and grounded QA
-- **method repos** = public-safe method slices for legacy recovery, bridge-planning, and layer separation
-
-## Where to start
-
-For the cleanest public entry path, use this order:
-
-1. [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) — broad public frame and project entry
-2. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — runnable local builder product
-3. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) — runnable local knowledge product
-4. method and frame repos afterwards for narrower readings and supporting patterns
-
-## Main project context
-
-The public repositories on this profile are not random fragments.
-
-They are deliberate public-safe slices of a larger private ToF / V’eth line that includes architecture work, runtime iteration, smoke and verification culture, and staged development across older and newer versions.
-
-Current public growth is expected to be most visible in:
-
-- `tof_local_builder`
-- `tof_local_knowledge`
-
-## Private core system context
-
-Behind the public repositories sits a private core system that has been running since March 2025.
-
-It runs on my own Linux server, currently spans around 52 Docker containers, and follows a modular architecture with clearly separated responsibilities. That includes technical structure, a governance core, an ethics layer, runtime handling, and a Hot / Warm / Cold retention model.
-
-Discord and Telegram are integrated as external interaction spaces. On top of that, a DnD game world exists as one application layer within the broader project line.
-
-The system has been built solo, in an autodidactic process, without a formal IT background. The public repositories on this profile therefore show only selected, public-safe and deliberately reduced slices of a much larger private project context.
-
-## Built so far
+## What already exists
 
 - private runtime active since March 2025
 - runs on my own Linux server
-- currently around 52 Docker containers
-- modular system line with governance core and ethics layer
-- Hot / Warm / Cold retention model
-- Discord and Telegram integrations as outer interfaces
-- DnD game world as one application layer
-- built solo, self-taught, without a formal IT background
+- around 52 Docker containers in the broader private system line
+- public local builder stack
+- public local knowledge/document system
+- Discord and Telegram integrations in the broader private project context
 
-## Current public focus
+## Start here
 
-- Linux
-- system structure
-- modular architectures
-- repo discipline
-- local-first / on-prem workflows
-- public technical framing
+- [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — local AI builder with read-only source boundaries and sandbox output
+- [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) — local document indexing, search, and grounded question answering
+- [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) — public architectural overview of the broader project line
+- [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame) — reduced public frame for boundaries, layers, and V7 reading
+- method repos afterwards for legacy recovery, bridge-planning, and separation patterns
 
-## Selected repositories
+## For recruiters / non-technical readers
 
-- [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) — public architectural frame and project overview.
-- [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — local builder for read-only repo access, reviewed artifacts, and GUI-based experimentation.
-- [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) — local knowledge and document system for indexing, search, and evidence-based answers.
-- [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame) — reduced public frame for boundaries and layer separation.
-- [`tof-legacy-recovery-workbench`](https://github.com/IMaugrenI/tof-legacy-recovery-workbench) — public method repo for reading and separating legacy material.
-- [`tof-bridge-planning-method`](https://github.com/IMaugrenI/tof-bridge-planning-method) — public bridge-planning method repo for preparing later target candidates.
+- self-taught system builder without a formal IT background
+- focus on Linux, Docker, local AI tooling, document search, and architecture-oriented system work
+- public repositories are selected public-safe slices of a larger private ToF / V’eth project line
+- strongest public evidence today: `tof_local_builder` and `tof_local_knowledge`
+
+## Selected public repositories
+
+- [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) — local GUI-first builder for controlled experimentation, read-only source access, and sandboxed output
+- [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) — on-prem knowledge system for indexing documents, searching evidence, and answering questions with source grounding
+- [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) — public project frame and architecture-oriented entry point
+- [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame) — reduced public V7 frame with explicit layer boundaries
+- [`tof-legacy-recovery-workbench`](https://github.com/IMaugrenI/tof-legacy-recovery-workbench) — public-safe method repo for reading older mixed material and separating reusable substance
+- [`tof-bridge-planning-method`](https://github.com/IMaugrenI/tof-bridge-planning-method) — public bridge-planning method for preparing target candidates without claiming runtime truth
 
 ## Working style
 
-- clear boundaries
 - source before interpretation
-- modular thinking
-- documentation discipline
+- clear boundaries between runtime, planning, archive, and public frame
+- modular service thinking
+- documentation and verification discipline
 - controlled public disclosure
-- traceable system building
 
 ## Background
 
-Self-taught solo builder without a formal IT background, with a practical background in craftsmanship, instruction, and structured operations.
-Currently focused on the transition into technical systems, Linux, and architecture-oriented project work.
+Self-taught solo builder with a practical background in craftsmanship, instruction, and structured operations.
+Currently focused on Linux, local AI systems, modular architectures, and the transition into technical systems work.
 
 ## Contact
 
