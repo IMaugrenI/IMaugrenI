@@ -39,6 +39,11 @@ Today my work centers on Linux, Docker, local AI tooling, document workflows, an
 4. Public product slices already available through `tof_local_builder` and `tof_local_knowledge`
 5. Discord and Telegram integrations exist in the broader private project context
 
+## certifications
+
+- Linux Foundation — Introduction to Linux (LFS101x) — [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c6a0011-a721-4603-92b8-d490e7736505-jakob-kessler-c75d47a6-8bba-48fe-ab79-169eeac77674-certificate.pdf)
+- Python certificate — in progress
+
 ## how_i_work
 
 1. source_before_interpretation
