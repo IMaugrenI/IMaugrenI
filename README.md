@@ -1,80 +1,70 @@
 # Jakob Kessler
-Local_AI_Systems · Linux · Docker · Modular_Architecture
+Linux · Docker · Modular Systems · Local AI
 
-I build local_first AI systems on my own hardware.
-I focus on turning complex ideas into structured, reproducible, and practical systems.
+I am an autodidactic career changer building local AI systems and modular infrastructure on my own hardware.
 
-I am a self_taught builder with a practical background in craftsmanship, instruction, and structured operations.
-Today my work centers on Linux, Docker, local AI tooling, document workflows, and modular system design.
+My background is practical rather than academic: craftsmanship, instruction, and structured operational work. That is also how I approach software. I am less interested in buzzwords than in whether a system is understandable, stable, and cleanly built.
+
+Since 2025, I have been building the private project line **ToF / V’eth (V7)**. The public repositories here are selected public-safe slices of that broader system.
 
 > German version: `README_DE.md`
 
-## start_here
+## why_i_build_this_way
 
-1. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder)
-   Local AI builder with read_only source boundaries and sandbox output
+I build local and modular systems on purpose.
 
-2. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge)
+I care about:
+- clear boundaries instead of hidden coupling
+- systems that stay understandable as they grow
+- documentation that explains structure, not just features
+- running things on my own hardware, where I can inspect, change, and verify them directly
+
+For me, software development is close to digital craftsmanship: a system should not only work, it should also be built in a way that stays stable, honest, and reviewable.
+
+## what_is_public_here
+
+The repositories on this profile are not the whole private system. They are smaller public slices that show how I think and build:
+
+1. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder)  
+   Local AI builder with controlled source boundaries and sandboxed output
+
+2. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge)  
    Local document indexing, evidence search, and grounded question answering
 
-3. [`tof_showcase`](https://github.com/IMaugrenI/tof-showcase)
-   Public architecture entry point for the broader project line
+3. [`tof_showcase`](https://github.com/IMaugrenI/tof-showcase)  
+   Public architecture entry point for the broader system line
 
-4. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)
-   Public V7 frame with explicit boundaries between spaces and layers
+4. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)  
+   Reduced public frame of the V7 architecture and its boundaries
 
-## what_i_do
+## how_i_work
 
-1. build local AI and document workflows
-2. design modular services with clear boundaries
-3. turn mixed ideas into structured systems and usable documentation
-4. work hands_on with Linux, Docker, and self_hosted setups
-5. document systems so they can be understood, reviewed, and continued
+- Linux and self-hosted environments
+- Docker-based runtime thinking
+- modular services with explicit boundaries
+- documentation and verification as part of the build
+- public output kept smaller and cleaner than the private runtime
 
 ## proof_of_work
 
-1. Private runtime active since March 2025
-2. Built and operated on my own Linux server
-3. Around 52 Docker containers across the broader private system line
-4. Public product slices already available through `tof_local_builder` and `tof_local_knowledge`
-5. Discord and Telegram integrations exist in the broader private project context
+- private runtime active since March 2025
+- built and operated on my own Linux server
+- around 52 Docker containers across the broader private system line
+- public system slices available through `tof_local_builder` and `tof_local_knowledge`
+- Discord and Telegram integrations exist in the broader private project context
+
+## where_to_start
+
+If you want the fastest impression of my work, start here:
+
+1. `tof_local_builder`
+2. `tof_local_knowledge`
+3. `tof_showcase`
 
 ## certifications
 
 - Linux Foundation — Introduction to Linux (LFS101x) — [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c6a0011-a721-4603-92b8-d490e7736505-jakob-kessler-c75d47a6-8bba-48fe-ab79-169eeac77674-certificate.pdf)
 - Python certificate — in progress
-
-## how_i_work
-
-1. source_before_interpretation
-2. clear boundaries between runtime, planning, archive, and public frame
-3. modular service thinking
-4. documentation and verification discipline
-5. controlled public disclosure
-
-## for_employers
-
-If you want to evaluate my work quickly:
-
-1. start with `tof_local_builder`
-2. continue with `tof_local_knowledge`
-3. use `tof_showcase` for the broader architecture reading
-4. use `tof_v7_public_frame` for the reduced V7 boundary reading
-
-What you will see:
-
-1. hands_on Linux and Docker work
-2. clear system structure and repo discipline
-3. product_minded thinking with boundaries and documentation
-4. a self_taught builder who can move from idea to working system
-
-## background
-
-I did not come from a formal IT path.
-I built my way into this field through practice, structure, and continuous iteration.
-
-My public repositories are selected public_safe slices of a broader private project line.
-The strongest public proof today is `tof_local_builder` and `tof_local_knowledge`.
 
 ## contact
 
