@@ -1,27 +1,25 @@
 # Jakob Kessler
 Linux · Docker · Modulare Systeme · Lokale KI
 
-Ich bin ein autodidaktischer Quereinsteiger und baue lokale KI-Systeme sowie modulare Infrastruktur auf meiner eigenen Hardware.
+Ich entwickle mit ToF ein lokales System, das sauber strukturiert, nachvollziehbar und kontrollierbar aufgebaut werden soll.
 
 Mein Hintergrund ist praktisch und nicht akademisch: Handwerk, Anleitung und strukturierte Abläufe. Genauso gehe ich auch an Software heran. Mich interessieren weniger große Begriffe als die Frage, ob ein System verständlich, stabil und sauber gebaut ist.
 
-Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** auf. Die öffentlichen Repositories hier sind ausgewählte public-safe Ausschnitte dieses größeren Systems.
+Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** als mehrschichtiges digitales System mit klaren Organen, klaren Übergaben und einer festen Verarbeitungskette auf. Die öffentlichen Repositories hier sind ausgewählte public-safe Ausschnitte dieses größeren Systems.
 
 > English version: `README.md`
 
-## warum_ich_so_baue
+## Warum ich so baue
 
-Ich baue lokale und modulare Systeme bewusst so.
+Ich baue Systeme bewusst auf diese Weise.
 
-Mir wichtig sind:
-- klare Grenzen statt versteckter Kopplung
-- Systeme, die auch mit wachsender Komplexität verständlich bleiben
-- Dokumentation, die Struktur erklärt und nicht nur Funktionen aufzählt
-- Arbeit auf eigener Hardware, damit ich Dinge direkt prüfen, verändern und nachvollziehen kann
+Mir geht es nicht um schnelle Wirkung, sondern um klare Struktur, echte Grenzen und technische Ehrlichkeit.
 
-Für mich ist Software-Entwicklung nah am digitalen Handwerk: Ein System soll nicht nur funktionieren, sondern so gebaut sein, dass es stabil, ehrlich und überprüfbar bleibt.
+Ich nutze KI-Tools nicht nur, um Ergebnisse zu bekommen. Ich nutze sie als Teil eines Prozesses, um ein System zu formen, das dauerhaft nachvollziehbar, prüfbar und stabil bleiben soll.
 
-## was_hier_oeffentlich_ist
+Ich baue lokal, weil ich Kontrolle, Nähe und Verantwortung behalten will. Daten, Logik, Archive und Entwicklung sollen für mich in einem Raum bleiben, den ich direkt prüfen, verändern und nachvollziehen kann.
+
+## Was hier öffentlich ist
 
 Die Repositories auf diesem Profil sind nicht das gesamte private System. Es sind kleinere öffentliche Ausschnitte, die zeigen, wie ich denke und baue:
 
@@ -37,7 +35,7 @@ Die Repositories auf diesem Profil sind nicht das gesamte private System. Es sin
 4. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)  
    Reduzierter öffentlicher Rahmen der V7-Architektur und ihrer Grenzen
 
-## wie_ich_arbeite
+## Wie ich arbeite
 
 - Linux und self-hosted Umgebungen
 - Docker-basierte Runtime-Denke
@@ -45,7 +43,7 @@ Die Repositories auf diesem Profil sind nicht das gesamte private System. Es sin
 - Dokumentation und Verifikation als Teil des Aufbaus
 - öffentliche Ausgabe bewusst kleiner und sauberer als die private Runtime
 
-## proof_of_work
+## Proof of Work
 
 - privates Laufzeitsystem aktiv seit März 2025
 - Aufbau und Betrieb auf eigenem Linux-Server
@@ -53,20 +51,23 @@ Die Repositories auf diesem Profil sind nicht das gesamte private System. Es sin
 - öffentliche System-Ausschnitte über `tof_local_builder` und `tof_local_knowledge`
 - Discord- und Telegram-Anbindungen existieren im größeren privaten Projektkontext
 
-## wo_man_anfangen_sollte
+## Wo man anfangen sollte
 
-Wenn du dir schnell einen Eindruck meiner Arbeit verschaffen willst, starte hier:
+Wenn du den klarsten Beleg dafür sehen willst, wie ich baue, starte mit `tof_local_builder`.
+Es ist mein stärkster öffentlicher Beweis dafür, wie ich Dienste strukturiere, Grenzen schütze und Systemideen in eine kontrollierte, nachvollziehbare Form bringe.
 
-1. `tof_local_builder`
-2. `tof_local_knowledge`
-3. `tof_showcase`
+Danach:
 
-## zertifikate
+1. `tof_local_knowledge`
+2. `tof_showcase`
+3. `tof_v7_public_frame`
+
+## Zertifikate
 
 - Linux Foundation — Introduction to Linux (LFS101x) — [Zertifikat](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c6a0011-a721-4603-92b8-d490e7736505-jakob-kessler-c75d47a6-8bba-48fe-ab79-169eeac77674-certificate.pdf)
 - Python-Zertifikat — aktuell in Arbeit
 
-## kontakt
+## Kontakt
 
 LinkedIn: [Jakob Kessler](https://www.linkedin.com/in/jakob-kessler-595b393b7)
 GitHub: [IMaugrenI](https://github.com/IMaugrenI)

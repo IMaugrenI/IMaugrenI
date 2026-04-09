@@ -1,27 +1,25 @@
 # Jakob Kessler
 Linux · Docker · Modular Systems · Local AI
 
-I am an autodidactic career changer building local AI systems and modular infrastructure on my own hardware.
+I am building ToF as a local system that should be structured cleanly, remain understandable, and stay under control.
 
 My background is practical rather than academic: craftsmanship, instruction, and structured operational work. That is also how I approach software. I am less interested in buzzwords than in whether a system is understandable, stable, and cleanly built.
 
-Since 2025, I have been building the private project line **ToF / V’eth (V7)**. The public repositories here are selected public-safe slices of that broader system.
+Since 2025, I have been building the private project line **ToF / V’eth (V7)** as a layered digital system with clear organs, handoffs, and a fixed processing chain. The public repositories here are selected public-safe slices of that broader system.
 
 > German version: `README_DE.md`
 
-## why_i_build_this_way
+## Why I build this way
 
-I build local and modular systems on purpose.
+I build systems this way on purpose.
 
-I care about:
-- clear boundaries instead of hidden coupling
-- systems that stay understandable as they grow
-- documentation that explains structure, not just features
-- running things on my own hardware, where I can inspect, change, and verify them directly
+What matters to me most is not fast effect, but clear structure, real boundaries, and technical honesty.
 
-For me, software development is close to digital craftsmanship: a system should not only work, it should also be built in a way that stays stable, honest, and reviewable.
+I do not use AI tools only to get results. I use them as part of a process to shape a system that should stay understandable, reviewable, and stable over time.
 
-## what_is_public_here
+I build locally because I want to keep control, proximity, and responsibility. For me, data, logic, archives, and development should stay in a space I can inspect and maintain directly.
+
+## What is public here
 
 The repositories on this profile are not the whole private system. They are smaller public slices that show how I think and build:
 
@@ -37,7 +35,7 @@ The repositories on this profile are not the whole private system. They are smal
 4. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)  
    Reduced public frame of the V7 architecture and its boundaries
 
-## how_i_work
+## How I work
 
 - Linux and self-hosted environments
 - Docker-based runtime thinking
@@ -45,7 +43,7 @@ The repositories on this profile are not the whole private system. They are smal
 - documentation and verification as part of the build
 - public output kept smaller and cleaner than the private runtime
 
-## proof_of_work
+## Proof of work
 
 - private runtime active since March 2025
 - built and operated on my own Linux server
@@ -53,20 +51,23 @@ The repositories on this profile are not the whole private system. They are smal
 - public system slices available through `tof_local_builder` and `tof_local_knowledge`
 - Discord and Telegram integrations exist in the broader private project context
 
-## where_to_start
+## Where to start
 
-If you want the fastest impression of my work, start here:
+If you want the clearest proof of how I build, start with `tof_local_builder`.
+It is the strongest public example of how I structure services, protect boundaries, and turn system ideas into a controlled runnable setup.
 
-1. `tof_local_builder`
-2. `tof_local_knowledge`
-3. `tof_showcase`
+Then continue with:
 
-## certifications
+1. `tof_local_knowledge`
+2. `tof_showcase`
+3. `tof_v7_public_frame`
+
+## Certifications
 
 - Linux Foundation — Introduction to Linux (LFS101x) — [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c6a0011-a721-4603-92b8-d490e7736505-jakob-kessler-c75d47a6-8bba-48fe-ab79-169eeac77674-certificate.pdf)
 - Python certificate — in progress
 
-## contact
+## Contact
 
 LinkedIn: [Jakob Kessler](https://www.linkedin.com/in/jakob-kessler-595b393b7)
 GitHub: [IMaugrenI](https://github.com/IMaugrenI)
