@@ -1,27 +1,50 @@
 # Jakob Kessler
-Linux · Docker · Modular Systems · Local AI
+Linux · Docker · Modular Systems · AI-Orchestrated Build Work
 
-I am building ToF as a local system that should be structured cleanly, remain understandable, and stay under control.
+I build local systems that should stay understandable, controllable, and cleanly separated.
 
-My background is practical rather than academic: craftsmanship, instruction, and structured operational work. That is also how I approach software. I am less interested in buzzwords than in whether a system is understandable, stable, and cleanly built.
+I do not primarily work as a traditional line-by-line programmer. My main work is architecture, system structure, boundary design, orchestration, and review. I use AI as an execution layer inside a process that I define, constrain, and validate.
 
-Since 2025, I have been building the private project line **ToF / V’eth (V7)** as a layered digital system with clear layers, disciplined handoffs, and a fixed processing chain. The public repositories here are selected public-facing slices of that broader system.
+Since 2025, I have been building the private project line **ToF / V’eth (V7)** as a layered local system with clear spaces, disciplined handoffs, and a fixed processing chain. The public repositories on this profile are reduced public-facing slices of that broader work.
 
 > German version: `README_DE.md`
 
-## Why I build this way
+## What this profile shows
 
-I build systems this way on purpose.
+These repositories are not meant to present manual hand-coded proof in the traditional sense.
 
-What matters to me most is not fast effect, but clear structure, real boundaries, and technical honesty.
+They show something else that I believe matters more and more:
 
-I do not use AI tools only to get results. I use them as part of a process to shape a system that should stay understandable, reviewable, and stable over time.
+- clear architecture before implementation
+- explicit boundaries between spaces and responsibilities
+- AI-directed build execution instead of blind AI output
+- reviewable public artifacts instead of vague ideas
+- local, self-hosted, and inspectable system thinking
 
-I build locally because I want to keep control, proximity, and responsibility. For me, data, logic, archives, and development should stay in a space I can inspect and maintain directly.
+## My role
+
+My role in this work is:
+
+- system architecture
+- separation and boundary definition
+- orchestration of AI-assisted build workflows
+- review and correction of generated output
+- runtime shape, documentation, and public framing
+- Linux / Docker / self-hosted operating discipline
+
+The concrete text and code in these public repositories are heavily AI-assisted. What is mine is the structure behind them: what should exist, what should stay separate, how the system should be read, and what counts as acceptable output.
+
+## Why this matters
+
+I believe useful technical work is no longer only about writing every line manually.
+
+It is also about being able to direct tools well, preserve structure, keep truth boundaries clear, and turn ideas into controlled, inspectable systems.
+
+A point I care about: parts of this public build work were orchestrated under relatively lightweight conditions. The point is not that infrastructure no longer matters. The point is that serious technical structure can now be built with far fewer resources than before, if the human side brings architecture, review, and discipline.
 
 ## What is public here
 
-The repositories on this profile are not the whole private system. They are smaller public slices that show how I think and build:
+The repositories on this profile are not the whole private system. They are smaller public slices that show how I think, structure, and direct build work:
 
 1. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder)  
    Local AI builder with controlled source boundaries and sandboxed output
@@ -46,15 +69,15 @@ The repositories on this profile are not the whole private system. They are smal
 ## Proof of work
 
 - private runtime active since March 2025
-- built and operated on my own Linux server
+- architected, directed, and operated on my own Linux server
 - around 52 Docker containers across the broader private system line
 - public system slices available through `tof_local_builder` and `tof_local_knowledge`
 - Discord and Telegram integrations exist in the broader private project context
 
 ## Where to start
 
-If you want the clearest proof of how I build, start with `tof_local_builder`.
-It is the strongest public example of how I structure services, protect boundaries, and turn system ideas into a controlled runnable setup.
+If you want the clearest proof of how I work, start with `tof_local_builder`.
+It is the strongest public example of how I define boundaries, shape runtime paths, and turn system ideas into a controlled runnable setup through AI-assisted implementation.
 
 Then continue with:
 
@@ -64,7 +87,7 @@ Then continue with:
 
 ## Certifications
 
-- Linux Foundation — Introduction to Linux (LFS101x) — [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c6a0011-a721-4603-92b8-d490e7736505-jakob-kessler-c75d47a6-8bba-48fe-ab79-169eeac77674-certificate.pdf)
+- Linux Foundation — Introduction to Linux (LFS101x)
 - Python certificate — in progress
 
 ## Contact
