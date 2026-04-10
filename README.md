@@ -1,5 +1,5 @@
 # Jakob Kessler
-Linux · Docker · Modular Systems · AI-Orchestrated Build Work
+Linux · Docker · System Architecture · AI-Orchestrated Build Work
 
 I build local systems that should stay understandable, controllable, and cleanly separated.
 
@@ -76,13 +76,21 @@ The repositories on this profile are not the whole private system. They are smal
 
 ## What I can help with
 
-I am especially interested in roles or collaborations around:
+Useful areas for roles or collaboration:
 
 - AI-orchestrated system building
-- local AI and self-hosted workflows
+- local AI and self-hosted technical workflows
 - architecture, system boundaries, and service separation
 - turning ideas into structured technical artifacts through AI-assisted execution
-- documentation, review, and public-safe technical framing
+- documentation, review, and technically honest public framing
+
+## What this produces in practice
+
+Examples from the public repo family:
+
+- a controlled local AI builder with read-only source boundaries and sandboxed output
+- a local knowledge stack with evidence search and grounded question answering
+- public-safe architecture framing for a larger private system line
 
 ## Where to start
 
@@ -98,7 +106,6 @@ Then continue with:
 ## Certifications
 
 - Linux Foundation — Introduction to Linux (LFS101x)
-- Python certificate — in progress
 
 ## Contact
 

@@ -1,5 +1,5 @@
 # Jakob Kessler
-Linux · Docker · Modulare Systeme · KI-orchestrierte Systemarbeit
+Linux · Docker · Systemarchitektur · KI-orchestrierte Systemarbeit
 
 Ich baue lokale Systeme, die verständlich, kontrollierbar und sauber getrennt bleiben sollen.
 
@@ -76,13 +76,21 @@ Die Repositories auf diesem Profil sind nicht das gesamte private System. Es sin
 
 ## Wobei ich helfen kann
 
-Ich interessiere mich besonders für Rollen oder Zusammenarbeit rund um:
+Nützliche Felder für Rollen oder Zusammenarbeit:
 
-- KI-orchestrierten Systemaufbau
-- lokale KI- und self-hosted Workflows
+- KI-orchestrierter Systemaufbau
+- lokale KI- und self-hosted technische Workflows
 - Architektur, Systemgrenzen und Service-Trennung
 - die Überführung von Ideen in strukturierte technische Artefakte über KI-gestützte Ausführung
-- Dokumentation, Review und public-safe technisches Framing
+- Dokumentation, Review und technisch ehrliches öffentliches Framing
+
+## Was das praktisch hervorbringt
+
+Beispiele aus der öffentlichen Repo-Familie:
+
+- einen kontrollierten lokalen KI-Builder mit read-only Quellgrenzen und Sandbox-Ausgabe
+- einen lokalen Wissens-Stack mit Evidenzsuche und belegten Antworten
+- public-safe Architektur-Framing für eine größere private Systemlinie
 
 ## Wo man anfangen sollte
 
@@ -98,7 +106,6 @@ Danach:
 ## Zertifikate
 
 - Linux Foundation — Introduction to Linux (LFS101x)
-- Python-Zertifikat — aktuell in Arbeit
 
 ## Kontakt
 
