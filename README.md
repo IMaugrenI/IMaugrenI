@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner/ToF_Banner.png" alt="ToF Banner" width="100%" />
+</p>
+
 # Jakob Kessler
 Linux · Docker · System Architecture · AI-Orchestrated Build Work
 
