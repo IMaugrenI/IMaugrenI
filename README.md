@@ -74,6 +74,16 @@ The repositories on this profile are not the whole private system. They are smal
 - public system slices available through `tof_local_builder` and `tof_local_knowledge`
 - Discord and Telegram integrations exist in the broader private project context
 
+## What I can help with
+
+I am especially interested in roles or collaborations around:
+
+- AI-orchestrated system building
+- local AI and self-hosted workflows
+- architecture, system boundaries, and service separation
+- turning ideas into structured technical artifacts through AI-assisted execution
+- documentation, review, and public-safe technical framing
+
 ## Where to start
 
 If you want the clearest proof of how I work, start with `tof_local_builder`.

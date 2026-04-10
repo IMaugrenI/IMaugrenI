@@ -74,6 +74,16 @@ Die Repositories auf diesem Profil sind nicht das gesamte private System. Es sin
 - öffentliche System-Ausschnitte über `tof_local_builder` und `tof_local_knowledge`
 - Discord- und Telegram-Anbindungen existieren im größeren privaten Projektkontext
 
+## Wobei ich helfen kann
+
+Ich interessiere mich besonders für Rollen oder Zusammenarbeit rund um:
+
+- KI-orchestrierten Systemaufbau
+- lokale KI- und self-hosted Workflows
+- Architektur, Systemgrenzen und Service-Trennung
+- die Überführung von Ideen in strukturierte technische Artefakte über KI-gestützte Ausführung
+- Dokumentation, Review und public-safe technisches Framing
+
 ## Wo man anfangen sollte
 
 Wenn du den klarsten Beleg dafür sehen willst, wie ich arbeite, starte mit `tof_local_builder`.
