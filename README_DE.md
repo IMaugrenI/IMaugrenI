@@ -1,27 +1,50 @@
 # Jakob Kessler
-Linux · Docker · Modulare Systeme · Lokale KI
+Linux · Docker · Modulare Systeme · KI-orchestrierte Systemarbeit
 
-Ich entwickle mit ToF ein lokales System, das sauber strukturiert, nachvollziehbar und kontrollierbar aufgebaut werden soll.
+Ich baue lokale Systeme, die verständlich, kontrollierbar und sauber getrennt bleiben sollen.
 
-Mein Hintergrund ist praktisch und nicht akademisch: Handwerk, Anleitung und strukturierte Abläufe. Genauso gehe ich auch an Software heran. Mich interessieren weniger große Begriffe als die Frage, ob ein System verständlich, stabil und sauber gebaut ist.
+Ich arbeite nicht in erster Linie als klassischer Zeile-für-Zeile-Programmierer. Mein Hauptanteil liegt in Architektur, Systemstruktur, Grenzziehung, Orchestrierung und Review. Ich nutze KI als Ausführungsebene innerhalb eines Prozesses, den ich definiere, begrenze und prüfe.
 
-Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** als mehrschichtiges digitales System mit klaren Ebenen, disziplinierten Übergaben und einer festen Verarbeitungskette auf. Die öffentlichen Repositories hier sind ausgewählte öffentlich lesbare Ausschnitte dieses größeren Systems.
+Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** als geschichtetes lokales System mit klaren Räumen, disziplinierten Übergaben und einer festen Verarbeitungskette auf. Die öffentlichen Repositories auf diesem Profil sind reduzierte, öffentlich lesbare Ausschnitte dieser größeren Arbeit.
 
 > English version: `README.md`
 
-## Warum ich so baue
+## Was dieses Profil zeigt
 
-Ich baue Systeme bewusst auf diese Weise.
+Diese Repositories sollen keinen klassischen Beweis für manuell Zeile für Zeile geschriebenen Code darstellen.
 
-Mir geht es nicht um schnelle Wirkung, sondern um klare Struktur, echte Grenzen und technische Ehrlichkeit.
+Sie zeigen etwas anderes, das aus meiner Sicht immer wichtiger wird:
 
-Ich nutze KI-Tools nicht nur, um Ergebnisse zu bekommen. Ich nutze sie als Teil eines Prozesses, um ein System zu formen, das dauerhaft nachvollziehbar, prüfbar und stabil bleiben soll.
+- klare Architektur vor Umsetzung
+- explizite Grenzen zwischen Räumen und Zuständigkeiten
+- KI-geführte Aufbauarbeit statt blinder KI-Ausgabe
+- prüfbare öffentliche Artefakte statt vager Ideen
+- lokale, self-hosted und direkt prüfbare Systemdenke
 
-Ich baue lokal, weil ich Kontrolle, Nähe und Verantwortung behalten will. Daten, Logik, Archive und Entwicklung sollen für mich in einem Raum bleiben, den ich direkt prüfen, verändern und nachvollziehen kann.
+## Meine Rolle
+
+Meine Rolle in dieser Arbeit ist:
+
+- Systemarchitektur
+- Trennungs- und Grenzlogik
+- Orchestrierung KI-gestützter Build-Workflows
+- Review und Korrektur erzeugter Ausgaben
+- Runtime-Form, Dokumentation und öffentliche Rahmung
+- Linux / Docker / self-hosted Betriebsdisziplin
+
+Der konkrete Text und Code in diesen öffentlichen Repositories ist stark KI-gestützt entstanden. Mein Anteil liegt in der Struktur dahinter: was existieren soll, was getrennt bleiben muss, wie das System gelesen werden soll und was als zulässiges Ergebnis gilt.
+
+## Warum das relevant ist
+
+Ich glaube, dass wertvolle technische Arbeit nicht mehr nur darin besteht, jede Zeile selbst zu schreiben.
+
+Sie besteht auch darin, Werkzeuge gut zu führen, Struktur zu bewahren, Wahrheitsgrenzen sauber zu halten und aus Ideen kontrollierte, prüfbare Systeme zu machen.
+
+Ein Punkt ist mir wichtig: Teile dieser öffentlichen Aufbauarbeit sind unter vergleichsweise leichten Bedingungen orchestriert worden. Der Punkt ist nicht, dass Infrastruktur unwichtig geworden ist. Der Punkt ist, dass ernsthafte technische Struktur heute mit deutlich weniger Mitteln aufgebaut werden kann als früher — wenn die menschliche Seite Architektur, Review und Disziplin mitbringt.
 
 ## Was hier öffentlich ist
 
-Die Repositories auf diesem Profil sind nicht das gesamte private System. Es sind kleinere öffentliche Ausschnitte, die zeigen, wie ich denke und baue:
+Die Repositories auf diesem Profil sind nicht das gesamte private System. Es sind kleinere öffentliche Ausschnitte, die zeigen, wie ich Aufbauarbeit denke, strukturiere und steuere:
 
 1. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder)  
    Lokaler KI-Builder mit kontrollierten Quellgrenzen und Sandbox-Ausgabe
@@ -46,15 +69,15 @@ Die Repositories auf diesem Profil sind nicht das gesamte private System. Es sin
 ## Proof of Work
 
 - privates Laufzeitsystem aktiv seit März 2025
-- Aufbau und Betrieb auf eigenem Linux-Server
+- auf eigenem Linux-Server architektonisch aufgebaut, gesteuert und betrieben
 - rund 52 Docker-Container in der breiteren privaten Systemlinie
 - öffentliche System-Ausschnitte über `tof_local_builder` und `tof_local_knowledge`
 - Discord- und Telegram-Anbindungen existieren im größeren privaten Projektkontext
 
 ## Wo man anfangen sollte
 
-Wenn du den klarsten Beleg dafür sehen willst, wie ich baue, starte mit `tof_local_builder`.
-Es ist mein stärkster öffentlicher Beweis dafür, wie ich Dienste strukturiere, Grenzen schütze und Systemideen in eine kontrollierte, nachvollziehbare Form bringe.
+Wenn du den klarsten Beleg dafür sehen willst, wie ich arbeite, starte mit `tof_local_builder`.
+Es ist das stärkste öffentliche Beispiel dafür, wie ich Grenzen definiere, Laufzeitpfade forme und Systemideen über KI-gestützte Umsetzung in eine kontrollierte, lauffähige Form bringe.
 
 Danach:
 
@@ -64,7 +87,7 @@ Danach:
 
 ## Zertifikate
 
-- Linux Foundation — Introduction to Linux (LFS101x) — [Zertifikat](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c6a0011-a721-4603-92b8-d490e7736505-jakob-kessler-c75d47a6-8bba-48fe-ab79-169eeac77674-certificate.pdf)
+- Linux Foundation — Introduction to Linux (LFS101x)
 - Python-Zertifikat — aktuell in Arbeit
 
 ## Kontakt
