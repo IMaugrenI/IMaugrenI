@@ -5,7 +5,7 @@ I am building ToF as a local system that should be structured cleanly, remain un
 
 My background is practical rather than academic: craftsmanship, instruction, and structured operational work. That is also how I approach software. I am less interested in buzzwords than in whether a system is understandable, stable, and cleanly built.
 
-Since 2025, I have been building the private project line **ToF / V’eth (V7)** as a layered digital system with clear organs, handoffs, and a fixed processing chain. The public repositories here are selected public-safe slices of that broader system.
+Since 2025, I have been building the private project line **ToF / V’eth (V7)** as a layered digital system with clear layers, disciplined handoffs, and a fixed processing chain. The public repositories here are selected public-facing slices of that broader system.
 
 > German version: `README_DE.md`
 

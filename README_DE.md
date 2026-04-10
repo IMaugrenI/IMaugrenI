@@ -5,7 +5,7 @@ Ich entwickle mit ToF ein lokales System, das sauber strukturiert, nachvollziehb
 
 Mein Hintergrund ist praktisch und nicht akademisch: Handwerk, Anleitung und strukturierte Abläufe. Genauso gehe ich auch an Software heran. Mich interessieren weniger große Begriffe als die Frage, ob ein System verständlich, stabil und sauber gebaut ist.
 
-Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** als mehrschichtiges digitales System mit klaren Organen, klaren Übergaben und einer festen Verarbeitungskette auf. Die öffentlichen Repositories hier sind ausgewählte public-safe Ausschnitte dieses größeren Systems.
+Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** als mehrschichtiges digitales System mit klaren Ebenen, disziplinierten Übergaben und einer festen Verarbeitungskette auf. Die öffentlichen Repositories hier sind ausgewählte öffentlich lesbare Ausschnitte dieses größeren Systems.
 
 > English version: `README.md`
 
