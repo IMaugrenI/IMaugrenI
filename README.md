@@ -50,17 +50,38 @@ A point I care about: parts of this public build work were orchestrated under re
 
 The repositories on this profile are not the whole private system. They are smaller public slices that show how I think, structure, and direct build work:
 
-1. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder)  
+### Public runnable product line
+
+1. [`tof_container_pulse`](https://github.com/IMaugrenI/tof_container_pulse)  
+   Local Docker host status viewer with one-glance monitoring, optional multi-host mode, and static HTML output
+
+2. [`local_case_organizer`](https://github.com/IMaugrenI/local_case_organizer)  
+   Local dossier builder for sensitive case files, timelines, and export packages
+
+3. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder)  
    Local AI builder with controlled source boundaries and sandboxed output
 
-2. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge)  
+4. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge)  
    Local document indexing, evidence search, and grounded question answering
 
-3. [`tof_showcase`](https://github.com/IMaugrenI/tof-showcase)  
+### Public architecture and framing line
+
+5. [`tof_showcase`](https://github.com/IMaugrenI/tof-showcase)  
    Public architecture entry point for the broader system line
 
-4. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)  
+6. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)  
    Reduced public frame of the V7 architecture and its boundaries
+
+### Public method and transition line
+
+7. [`tof-module-ideas`](https://github.com/IMaugrenI/tof-module-ideas)  
+   Public-safe idea space for larger module candidates before runtime implementation
+
+8. [`tof-legacy-recovery-workbench`](https://github.com/IMaugrenI/tof-legacy-recovery-workbench)  
+   Recovery workbench for older mixed material and disciplined extraction
+
+9. [`tof-bridge-planning-method`](https://github.com/IMaugrenI/tof-bridge-planning-method)  
+   Bridge-planning layer for translating prepared blocks into structured candidates
 
 ## How I work
 
@@ -75,7 +96,7 @@ The repositories on this profile are not the whole private system. They are smal
 - private runtime active since March 2025
 - architected, directed, and operated on my own Linux server
 - around 52 Docker containers across the broader private system line
-- public system slices available through `tof_local_builder` and `tof_local_knowledge`
+- public system slices available through `tof_container_pulse`, `local_case_organizer`, `tof_local_builder`, and `tof_local_knowledge`
 - Discord and Telegram integrations exist in the broader private project context
 
 ## What I can help with
@@ -92,20 +113,25 @@ Useful areas for roles or collaboration:
 
 Examples from the public repo family:
 
+- a lightweight Docker host viewer with read-only one-glance visibility
+- a local dossier builder for sensitive case material
 - a controlled local AI builder with read-only source boundaries and sandboxed output
 - a local knowledge stack with evidence search and grounded question answering
 - public-safe architecture framing for a larger private system line
 
 ## Where to start
 
-If you want the clearest proof of how I work, start with `tof_local_builder`.
-It is the strongest public example of how I define boundaries, shape runtime paths, and turn system ideas into a controlled runnable setup through AI-assisted implementation.
+If you want the clearest product proof first, start with:
 
-Then continue with:
+1. `tof_container_pulse`
+2. `local_case_organizer`
+3. `tof_local_builder`
+4. `tof_local_knowledge`
 
-1. `tof_local_knowledge`
-2. `tof_showcase`
-3. `tof_v7_public_frame`
+If you want the clearest architecture framing first, continue with:
+
+1. `tof_showcase`
+2. `tof_v7_public_frame`
 
 ## Certifications
 
