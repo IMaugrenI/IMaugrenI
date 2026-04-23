@@ -11,7 +11,25 @@ I do not primarily work as a traditional line-by-line programmer. My main work i
 
 Since 2025, I have been building the private project line **ToF / V’eth (V7)** as a layered local system with clear spaces, disciplined handoffs, and a fixed processing chain. The public repositories on this profile are reduced public-facing slices of that broader work.
 
-> German version: `README_DE.md`
+> German mirror: `README_DE.md`
+
+## What this profile is
+
+This profile is the public entry point to a small repo family that shows product work, architecture framing, and method / transition work around a broader private ToF / V’eth line.
+
+## Who it is for
+
+This profile is for technical readers, potential collaborators, employers, and sponsors who want to understand how I build local-first, self-hosted, inspectable systems.
+
+## What it is not
+
+This profile is not the full private runtime, not a claim of hand-written-every-line programming, and not a public mirror of the whole internal system.
+
+## Where to start
+
+- Product line: `tof_container_pulse`, `tof_local_knowledge`, `tof_local_builder`, `local_case_organizer`
+- Architecture / framing: `tof-showcase`, `tof-v7-public-frame`
+- Method / transition: `tof-module-ideas`, `tof-legacy-recovery-workbench`, `tof-bridge-planning-method`
 
 ## What this profile shows
 
@@ -46,11 +64,9 @@ It is also about being able to direct tools well, preserve structure, keep truth
 
 A point I care about: parts of this public build work were orchestrated under relatively lightweight conditions. The point is not that infrastructure no longer matters. The point is that serious technical structure can now be built with far fewer resources than before, if the human side brings architecture, review, and discipline.
 
-## What is public here
+## Repo family at a glance
 
-The repositories on this profile are not the whole private system. They are smaller public slices that show how I think, structure, and direct build work:
-
-### Public runnable product line
+### Product line
 
 1. [`tof_container_pulse`](https://github.com/IMaugrenI/tof_container_pulse)  
    Local Docker host status viewer with one-glance monitoring, optional multi-host mode, and static HTML output
@@ -64,15 +80,15 @@ The repositories on this profile are not the whole private system. They are smal
 4. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge)  
    Local document indexing, evidence search, and grounded question answering
 
-### Public architecture and framing line
+### Architecture / framing
 
-5. [`tof_showcase`](https://github.com/IMaugrenI/tof-showcase)  
+5. [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase)  
    Public architecture entry point for the broader system line
 
-6. [`tof_v7_public_frame`](https://github.com/IMaugrenI/tof-v7-public-frame)  
+6. [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame)  
    Reduced public frame of the V7 architecture and its boundaries
 
-### Public method and transition line
+### Method / transition
 
 7. [`tof-module-ideas`](https://github.com/IMaugrenI/tof-module-ideas)  
    Public-safe idea space for larger module candidates before runtime implementation
@@ -119,7 +135,7 @@ Examples from the public repo family:
 - a local knowledge stack with evidence search and grounded question answering
 - public-safe architecture framing for a larger private system line
 
-## Where to start
+## Where to start next
 
 If you want the clearest product proof first, start with:
 
@@ -130,8 +146,8 @@ If you want the clearest product proof first, start with:
 
 If you want the clearest architecture framing first, continue with:
 
-1. `tof_showcase`
-2. `tof_v7_public_frame`
+1. `tof-showcase`
+2. `tof-v7-public-frame`
 
 ## Certifications
 
