@@ -5,64 +5,35 @@
 # Jakob Kessler
 Linux · Docker · System Architecture · AI-Orchestrated Build Work
 
-I build local systems that should stay understandable, controllable, and cleanly separated.
+I design and build local-first systems that should stay understandable, controllable, inspectable, and cleanly separated.
 
-I do not primarily work as a traditional line-by-line programmer. My main work is architecture, system structure, boundary design, orchestration, and review. I use AI as an execution layer inside a process that I define, constrain, and validate.
+This profile is my public working surface: part portfolio, part open-source workspace, and part public documentation layer for a larger private local-first system line.
 
-Since 2025, I have been building the private project line **ToF / V’eth (V7)** as a layered local system with clear spaces, disciplined handoffs, and a fixed processing chain. The public repositories on this profile are reduced public-facing slices of that broader work.
+I do not primarily work as a traditional line-by-line programmer. My main work is system architecture, boundary design, orchestration, review, runtime shape, and public framing. I use AI as a constrained execution layer inside processes that I define, limit, inspect, and validate.
+
+Since 2025, I have been building the private project line **ToF / V’eth (V7)** as a layered local system with clear spaces, disciplined handoffs, and a fixed processing chain. The public repositories on this profile are reduced, public-safe slices of that broader work.
 
 > German mirror: `README_DE.md`
 
 ## What this profile is
 
-This profile is the public entry point to a small repo family that shows product work, architecture framing, and method / transition work around a broader private ToF / V’eth line.
+This profile is intentionally a mixed public surface:
+
+- a portfolio for technical readers, employers, and collaborators
+- an open-source workspace for small local-first tools
+- a public documentation layer for the boundary of a larger private ToF / V’eth system line
 
 ## Who it is for
 
-This profile is for technical readers, potential collaborators, employers, and sponsors who want to understand how I build local-first, self-hosted, inspectable systems.
+- recruiters and employers who want to understand my system architecture, Linux/Docker discipline, and AI-orchestrated build workflow
+- builders and self-hosters who want inspectable local tools they can run, adapt, or learn from
+- technical readers who want a public-safe map of the broader private ToF / V’eth project line
 
 ## What it is not
 
-This profile is not the full private runtime, not a claim of hand-written-every-line programming, and not a public mirror of the whole internal system.
+This profile is not the full private runtime, not a public mirror of the internal system, and not a claim that every line was manually written without AI assistance.
 
-## Where to start
-
-- Product line: `tof_container_pulse`, `tof_local_knowledge`, `tof_local_builder`, `local_case_organizer`
-- Architecture / framing: `tof-showcase`, `tof-v7-public-frame`
-- Method / transition: `tof-module-ideas`, `tof-legacy-recovery-workbench`, `tof-bridge-planning-method`
-
-## What this profile shows
-
-These repositories are not meant to present manual hand-coded proof in the traditional sense.
-
-They show something else that I believe matters more and more:
-
-- clear architecture before implementation
-- explicit boundaries between spaces and responsibilities
-- AI-directed build execution instead of blind AI output
-- reviewable public artifacts instead of vague ideas
-- local, self-hosted, and inspectable system thinking
-
-## My role
-
-My role in this work is:
-
-- system architecture
-- separation and boundary definition
-- orchestration of AI-assisted build workflows
-- review and correction of generated output
-- runtime shape, documentation, and public framing
-- Linux / Docker / self-hosted operating discipline
-
-The concrete text and code in these public repositories are heavily AI-assisted. What is mine is the structure behind them: what should exist, what should stay separate, how the system should be read, and what counts as acceptable output.
-
-## Why this matters
-
-I believe useful technical work is no longer only about writing every line manually.
-
-It is also about being able to direct tools well, preserve structure, keep truth boundaries clear, and turn ideas into controlled, inspectable systems.
-
-A point I care about: parts of this public build work were orchestrated under relatively lightweight conditions. The point is not that infrastructure no longer matters. The point is that serious technical structure can now be built with far fewer resources than before, if the human side brings architecture, review, and discipline.
+It is also not an uncontrolled AI-output dump. The point is the opposite: public artifacts here are shaped around boundaries, review, separation, and controlled local execution.
 
 ## Repo family at a glance
 
@@ -99,13 +70,32 @@ A point I care about: parts of this public build work were orchestrated under re
 9. [`tof-bridge-planning-method`](https://github.com/IMaugrenI/tof-bridge-planning-method)  
    Bridge-planning layer for translating prepared blocks into structured candidates
 
-## How I work
+## What this profile shows
 
-- Linux and self-hosted environments
-- Docker-based runtime thinking
-- modular services with explicit boundaries
-- documentation and verification as part of the build
-- public output kept smaller and cleaner than the private runtime
+These repositories are not meant to present manual hand-coded proof in the traditional sense.
+
+They show how I turn ideas into controlled, inspectable local systems through:
+
+- clear architecture before implementation
+- explicit boundaries between spaces and responsibilities
+- AI-directed build execution instead of blind AI output
+- grounded input before generation
+- sandboxed output instead of silent mixing
+- public-safe documentation instead of private-runtime leakage
+- local, self-hosted, and inspectable system thinking
+
+## My role
+
+My role in this work is:
+
+- system architecture
+- separation and boundary definition
+- orchestration of AI-assisted build workflows
+- review and correction of generated output
+- runtime shape, documentation, and public framing
+- Linux / Docker / self-hosted operating discipline
+
+The concrete text and code in these public repositories are heavily AI-assisted. What is mine is the structure behind them: what should exist, what must stay separate, how the system should be read, which boundaries must hold, and what counts as acceptable output.
 
 ## Proof of work
 
@@ -117,37 +107,11 @@ A point I care about: parts of this public build work were orchestrated under re
 
 ## What I can help with
 
-Useful areas for roles or collaboration:
-
 - AI-orchestrated system building
 - local AI and self-hosted technical workflows
 - architecture, system boundaries, and service separation
 - turning ideas into structured technical artifacts through AI-assisted execution
 - documentation, review, and technically honest public framing
-
-## What this produces in practice
-
-Examples from the public repo family:
-
-- a lightweight Docker host viewer with read-only one-glance visibility
-- a local dossier builder for sensitive case material
-- a controlled local AI builder with read-only source boundaries and sandboxed output
-- a local knowledge stack with evidence search and grounded question answering
-- public-safe architecture framing for a larger private system line
-
-## Where to start next
-
-If you want the clearest product proof first, start with:
-
-1. `tof_container_pulse`
-2. `local_case_organizer`
-3. `tof_local_builder`
-4. `tof_local_knowledge`
-
-If you want the clearest architecture framing first, continue with:
-
-1. `tof-showcase`
-2. `tof-v7-public-frame`
 
 ## Certifications
 
