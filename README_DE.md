@@ -5,64 +5,35 @@
 # Jakob Kessler
 Linux · Docker · Systemarchitektur · KI-orchestrierte Build-Arbeit
 
-Ich baue lokale Systeme, die verständlich, kontrollierbar und sauber getrennt bleiben sollen.
+Ich entwerfe und baue local-first Systeme, die verständlich, kontrollierbar, prüfbar und sauber getrennt bleiben sollen.
 
-Ich arbeite nicht in erster Linie als klassischer Zeile-für-Zeile-Programmierer. Mein Hauptanteil liegt in Architektur, Systemstruktur, Grenzziehung, Orchestrierung und Review. Ich nutze KI als Ausführungsebene innerhalb eines Prozesses, den ich definiere, begrenze und prüfe.
+Dieses Profil ist meine öffentliche Arbeitsfläche: teils Portfolio, teils Open-Source-Werkbank und teils öffentliche Dokumentationsschicht einer größeren privaten local-first Systemlinie.
 
-Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** als geschichtetes lokales System mit klaren Räumen, disziplinierten Übergaben und einer festen Verarbeitungskette auf. Die öffentlichen Repositories auf diesem Profil sind reduzierte, öffentlich lesbare Ausschnitte dieser größeren Arbeit.
+Ich arbeite nicht in erster Linie als klassischer Zeile-für-Zeile-Programmierer. Mein Hauptanteil liegt in Systemarchitektur, Grenzziehung, Orchestrierung, Review, Runtime-Form und öffentlicher Rahmung. Ich nutze KI als begrenzte Ausführungsebene innerhalb von Prozessen, die ich definiere, begrenze, prüfe und validiere.
+
+Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** als geschichtetes lokales System mit klaren Räumen, disziplinierten Übergaben und einer festen Verarbeitungskette auf. Die öffentlichen Repositories auf diesem Profil sind reduzierte, public-safe Ausschnitte dieser größeren Arbeit.
 
 > Deutsche Fassung zu `README.md`
 
 ## Was dieses Profil ist
 
-Dieses Profil ist der öffentliche Einstiegspunkt in eine kleine Repo-Familie, die Produktarbeit, Architektur-Framing sowie Methoden- und Übergangsarbeit rund um eine größere private ToF / V’eth-Linie zeigt.
+Dieses Profil ist bewusst eine gemischte öffentliche Oberfläche:
+
+- ein Portfolio für technische Leser, Arbeitgeber und Kollaborationspartner
+- eine Open-Source-Werkbank für kleine local-first Werkzeuge
+- eine öffentliche Dokumentationsschicht für die Grenze einer größeren privaten ToF / V’eth Systemlinie
 
 ## Für wen es gedacht ist
 
-Dieses Profil ist für technische Leser, potenzielle Kollaborationspartner, Arbeitgeber und Sponsoren, die verstehen wollen, wie ich local-first, self-hosted und prüfbare Systeme aufbaue.
+- Recruiter und Arbeitgeber, die meine Systemarchitektur, Linux/Docker-Disziplin und KI-orchestrierten Build-Workflow verstehen wollen
+- Builder und Self-Hoster, die prüfbare lokale Werkzeuge ausführen, anpassen oder daraus lernen wollen
+- technische Leser, die eine public-safe Karte der größeren privaten ToF / V’eth Projektlinie suchen
 
 ## Was es nicht ist
 
-Dieses Profil ist weder die vollständige private Runtime noch ein Anspruch, jede Zeile von Hand geschrieben zu haben, noch ein öffentlicher Spiegel des gesamten internen Systems.
+Dieses Profil ist nicht die vollständige private Runtime, kein öffentlicher Spiegel des internen Systems und kein Anspruch, jede Zeile ohne KI-Unterstützung manuell geschrieben zu haben.
 
-## Wo du anfangen kannst
-
-- Produktlinie: `tof_container_pulse`, `tof_local_knowledge`, `tof_local_builder`, `local_case_organizer`
-- Architektur / Framing: `tof-showcase`, `tof-v7-public-frame`
-- Methode / Übergang: `tof-module-ideas`, `tof-legacy-recovery-workbench`, `tof-bridge-planning-method`
-
-## Was dieses Profil zeigt
-
-Diese Repositories sollen keinen klassischen Beweis für manuell Zeile für Zeile geschriebenen Code darstellen.
-
-Sie zeigen etwas anderes, das aus meiner Sicht immer wichtiger wird:
-
-- klare Architektur vor Umsetzung
-- explizite Grenzen zwischen Räumen und Zuständigkeiten
-- KI-geführte Aufbauarbeit statt blinder KI-Ausgabe
-- prüfbare öffentliche Artefakte statt vager Ideen
-- lokale, self-hosted und direkt prüfbare Systemdenke
-
-## Meine Rolle
-
-Meine Rolle in dieser Arbeit ist:
-
-- Systemarchitektur
-- Trennungs- und Grenzlogik
-- Orchestrierung KI-gestützter Build-Workflows
-- Review und Korrektur erzeugter Ausgaben
-- Runtime-Form, Dokumentation und öffentliche Rahmung
-- Linux / Docker / self-hosted Betriebsdisziplin
-
-Der konkrete Text und Code in diesen öffentlichen Repositories ist stark KI-gestützt entstanden. Mein Anteil liegt in der Struktur dahinter: was existieren soll, was getrennt bleiben muss, wie das System gelesen werden soll und was als zulässiges Ergebnis gilt.
-
-## Warum das relevant ist
-
-Ich glaube, dass wertvolle technische Arbeit nicht mehr nur darin besteht, jede Zeile selbst zu schreiben.
-
-Sie besteht auch darin, Werkzeuge gut zu führen, Struktur zu bewahren, Wahrheitsgrenzen sauber zu halten und aus Ideen kontrollierte, prüfbare Systeme zu machen.
-
-Ein Punkt ist mir wichtig: Teile dieser öffentlichen Aufbauarbeit sind unter vergleichsweise leichten Bedingungen orchestriert worden. Der Punkt ist nicht, dass Infrastruktur unwichtig geworden ist. Der Punkt ist, dass ernsthafte technische Struktur heute mit deutlich weniger Mitteln aufgebaut werden kann als früher — wenn die menschliche Seite Architektur, Review und Disziplin mitbringt.
+Es ist auch kein unkontrollierter KI-Output-Dump. Der Punkt ist das Gegenteil: Die öffentlichen Artefakte hier sind auf Grenzen, Review, Trennung und kontrollierte lokale Ausführung ausgelegt.
 
 ## Repo-Familie auf einen Blick
 
@@ -99,13 +70,32 @@ Ein Punkt ist mir wichtig: Teile dieser öffentlichen Aufbauarbeit sind unter ve
 9. [`tof-bridge-planning-method`](https://github.com/IMaugrenI/tof-bridge-planning-method)  
    Bridge-Planning-Schicht zur Übersetzung vorbereiteter Blöcke in strukturierte Kandidaten
 
-## Wie ich arbeite
+## Was dieses Profil zeigt
 
-- Linux und self-hosted Umgebungen
-- Docker-basierte Runtime-Denke
-- modulare Dienste mit klaren Grenzen
-- Dokumentation und Verifikation als Teil des Aufbaus
-- öffentliche Ausgabe bewusst kleiner und sauberer als die private Runtime
+Diese Repositories sollen keinen klassischen Beweis für manuell Zeile für Zeile geschriebenen Code darstellen.
+
+Sie zeigen, wie ich Ideen in kontrollierte, prüfbare lokale Systeme überführe durch:
+
+- klare Architektur vor Umsetzung
+- explizite Grenzen zwischen Räumen und Zuständigkeiten
+- KI-geführte Aufbauarbeit statt blinder KI-Ausgabe
+- grounded Input vor Generierung
+- Sandbox-Ausgabe statt stiller Vermischung
+- public-safe Dokumentation statt Leaks aus privater Runtime
+- lokale, self-hosted und direkt prüfbare Systemdenke
+
+## Meine Rolle
+
+Meine Rolle in dieser Arbeit ist:
+
+- Systemarchitektur
+- Trennungs- und Grenzlogik
+- Orchestrierung KI-gestützter Build-Workflows
+- Review und Korrektur erzeugter Ausgaben
+- Runtime-Form, Dokumentation und öffentliche Rahmung
+- Linux / Docker / self-hosted Betriebsdisziplin
+
+Der konkrete Text und Code in diesen öffentlichen Repositories ist stark KI-gestützt entstanden. Mein Anteil liegt in der Struktur dahinter: was existieren soll, was getrennt bleiben muss, wie das System gelesen werden soll, welche Grenzen halten müssen und was als zulässiges Ergebnis gilt.
 
 ## Proof of Work
 
@@ -117,37 +107,11 @@ Ein Punkt ist mir wichtig: Teile dieser öffentlichen Aufbauarbeit sind unter ve
 
 ## Wobei ich helfen kann
 
-Nützliche Felder für Rollen oder Zusammenarbeit:
-
 - KI-orchestrierter Systemaufbau
 - lokale KI- und self-hosted technische Workflows
 - Architektur, Systemgrenzen und Service-Trennung
 - die Überführung von Ideen in strukturierte technische Artefakte über KI-gestützte Ausführung
 - Dokumentation, Review und technisch ehrliches öffentliches Framing
-
-## Was das praktisch hervorbringt
-
-Beispiele aus der öffentlichen Repo-Familie:
-
-- einen leichten Docker-Host-Viewer mit read-only One-Glance-Sichtbarkeit
-- einen lokalen Dossier-Builder für sensibles Fallmaterial
-- einen kontrollierten lokalen KI-Builder mit read-only Quellgrenzen und Sandbox-Ausgabe
-- einen lokalen Wissens-Stack mit Evidenzsuche und grounded Question Answering
-- public-safe Architektur-Framing für eine größere private Systemlinie
-
-## Wo du als Nächstes anfangen kannst
-
-Wenn du zuerst den klarsten Produktbeleg sehen willst, starte mit:
-
-1. `tof_container_pulse`
-2. `local_case_organizer`
-3. `tof_local_builder`
-4. `tof_local_knowledge`
-
-Wenn du zuerst das klarste Architektur-Framing sehen willst, gehe weiter mit:
-
-1. `tof-showcase`
-2. `tof-v7-public-frame`
 
 ## Zertifikate
 
