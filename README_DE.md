@@ -15,6 +15,21 @@ Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** als geschicht
 
 > Deutsche Fassung zu `README.md`
 
+## Neu hier? Nach Ziel auswählen
+
+Du musst nicht erst die gesamte ToF/V’eth-Projektlinie verstehen, bevor du ein Repo ausprobieren kannst.
+
+| Wenn du... | Starte hier | Was du bekommst |
+| --- | --- | --- |
+| lokalen Docker-/Host-Status schnell sehen willst | [`tof_container_pulse`](https://github.com/IMaugrenI/tof_container_pulse) | read-only statische Statusseiten |
+| lokale Dokumente mit sichtbaren Belegen durchsuchen willst | [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) | lokale Indexierung, Suche, belegte Antworten |
+| lokale KI kontrolliert auf eine Quelle anwenden willst | [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) | read-only Quelle + Sandbox-Ausgabe |
+| sensible lokale Fallakten strukturieren willst | [`local_case_organizer`](https://github.com/IMaugrenI/local_case_organizer) | Import, Register, Timeline, Exportpaket |
+| zuerst die Architektur verstehen willst | [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) | öffentliche Karte der Repo-Familie und Systemideen |
+
+**Als erster lauffähiger Einstieg ist `tof_container_pulse` am leichtesten.**  
+Jedes lauffähige Produkt-Repo hat jetzt ein `START_HERE.md` mit Klonen → Erststart → Erfolgsprüfung → Alltag.
+
 ## Was dieses Profil ist
 
 Dieses Profil ist bewusst eine gemischte öffentliche Oberfläche:
@@ -101,7 +116,7 @@ Der konkrete Text und Code in diesen öffentlichen Repositories ist stark KI-ges
 
 - privates Laufzeitsystem aktiv seit März 2025
 - auf eigenem Linux-Server architektonisch aufgebaut, gesteuert und betrieben
-- rund 52 Docker-Container in der breiteren privaten Systemlinie
+- eine private Multi-Container-Runtime auf dem eigenen Linux-Server; die genaue Containerzahl verändert sich mit dem System
 - öffentliche System-Ausschnitte verfügbar über `tof_container_pulse`, `local_case_organizer`, `tof_local_builder` und `tof_local_knowledge`
 - Discord- und Telegram-Anbindungen existieren im größeren privaten Projektkontext
 

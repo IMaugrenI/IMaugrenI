@@ -15,6 +15,21 @@ Since 2025, I have been building the private project line **ToF / V’eth (V7)**
 
 > German mirror: `README_DE.md`
 
+## New here? Choose by goal
+
+You do not need to understand the whole ToF/V’eth project line before trying a repo.
+
+| If you want to... | Start here | What you get |
+| --- | --- | --- |
+| see local Docker/host status quickly | [`tof_container_pulse`](https://github.com/IMaugrenI/tof_container_pulse) | read-only static status pages |
+| search local documents with visible evidence | [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) | local indexing, search, grounded answers |
+| use local AI against a controlled source | [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) | read-only source + sandboxed output |
+| organize sensitive local case files | [`local_case_organizer`](https://github.com/IMaugrenI/local_case_organizer) | imports, register, timeline, export package |
+| understand the architecture first | [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) | public map of the repo family and system ideas |
+
+**For a first runnable example, `tof_container_pulse` is the lightest entry.**  
+Each runnable product repo now has a `START_HERE.md` with clone → first run → success check → everyday use.
+
 ## What this profile is
 
 This profile is intentionally a mixed public surface:
@@ -101,7 +116,7 @@ The concrete text and code in these public repositories are heavily AI-assisted.
 
 - private runtime active since March 2025
 - architected, directed, and operated on my own Linux server
-- around 52 Docker containers across the broader private system line
+- a multi-container private runtime on my own Linux server; the exact container count changes as the system evolves
 - public system slices available through `tof_container_pulse`, `local_case_organizer`, `tof_local_builder`, and `tof_local_knowledge`
 - Discord and Telegram integrations exist in the broader private project context
 
