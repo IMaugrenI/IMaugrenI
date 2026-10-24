@@ -1,138 +1,70 @@
 <p align="center">
-  <img src="assets/banner/ToF_Banner.png" alt="ToF Banner" width="100%" />
+  <img src="assets/banner/ToF_Banner.png" alt="ToF Systems Banner" width="100%" />
 </p>
 
-# Jakob Kessler
-Linux · Docker · Systemarchitektur · KI-orchestrierte Build-Arbeit
+# Jakob Kessler | ToF Systems
 
-Ich entwerfe und baue local-first Systeme, die verständlich, kontrollierbar, prüfbar und sauber getrennt bleiben sollen.
+**Lokale KI- und Systementwicklung (Local-First AI & Systems Engineering)**  
+Linux · Docker · Selbst gehostete KI · Systemarchitektur · Menschlich gesteuerte KI-Entwicklung
 
-Dieses Profil ist meine öffentliche Arbeitsfläche: teils Portfolio, teils Open-Source-Werkbank und teils öffentliche Dokumentationsschicht einer größeren privaten local-first Systemlinie.
+Ich entwerfe und entwickle lokale Software- und KI-Systeme. Im Mittelpunkt stehen eindeutige Zuständigkeiten, kontrollierte Datenflüsse, nachvollziehbare Ergebnisse und ein praktisch beherrschbarer Betrieb.
 
-Ich arbeite nicht in erster Linie als klassischer Zeile-für-Zeile-Programmierer. Mein Hauptanteil liegt in Systemarchitektur, Grenzziehung, Orchestrierung, Review, Runtime-Form und öffentlicher Rahmung. Ich nutze KI als begrenzte Ausführungsebene innerhalb von Prozessen, die ich definiere, begrenze, prüfe und validiere.
+**ToF Systems** ist der gemeinsame Rahmen für meine unabhängige Architektur- und Entwicklungsarbeit. Auf diesem GitHub-Profil findest du lauffähige öffentliche Werkzeuge, Architekturreferenzen und Methoden zur KI-gestützten Softwareentwicklung unter menschlicher Steuerung.
 
-Seit 2025 baue ich die private Projektlinie **ToF / V’eth (V7)** als geschichtetes lokales System mit klaren Räumen, disziplinierten Übergaben und einer festen Verarbeitungskette auf. Die öffentlichen Repositories auf diesem Profil sind reduzierte, public-safe Ausschnitte dieser größeren Arbeit.
+## Projekte entdecken
 
-> Deutsche Fassung zu `README.md`
+| Projekt | Wobei es hilft |
+| --- | --- |
+| [Container Pulse](https://github.com/IMaugrenI/tof_container_pulse) | Docker-, Host-, Speicher-, Port-, Dienst- und Sicherheitssignale lokal und schreibgeschützt über Statusseiten überblicken. |
+| [Local Knowledge](https://github.com/IMaugrenI/tof_local_knowledge) | Lokale Dokumente indexieren, durchsuchen und Fragen auf Basis gefundener Belege beantworten. |
+| [Local Builder](https://github.com/IMaugrenI/tof_local_builder) | Lokale KI-Modelle mit klar getrenntem Quellzugriff und kontrollierter Ergebnisausgabe nutzen. |
+| [Local Case Organizer](https://github.com/IMaugrenI/local_case_organizer) | Lokale Dokumente zu nachvollziehbaren Registern, Zeitachsen und Exportpaketen organisieren. |
 
-## Neu hier? Nach Ziel auswählen
+**Ein einfacher Einstieg:** [Container Pulse — Schnellstart](https://github.com/IMaugrenI/tof_container_pulse/blob/main/START_HERE.md). Jedes ausführbare Repository dokumentiert Einrichtung, Plattformen, Grenzen und aktuellen Funktionsumfang selbst.
 
-Du musst nicht erst die gesamte ToF/V’eth-Projektlinie verstehen, bevor du ein Repo ausprobieren kannst.
+<p align="center">
+  <a href="https://github.com/IMaugrenI/tof_container_pulse">
+    <img src="https://raw.githubusercontent.com/IMaugrenI/tof_container_pulse/main/assets/screenshots/pulse-main-1.png" alt="Vorschau des lokalen Container-Pulse-Dashboards" width="90%" />
+  </a>
+</p>
 
-| Wenn du... | Starte hier | Was du bekommst |
-| --- | --- | --- |
-| lokalen Docker-/Host-Status schnell sehen willst | [`tof_container_pulse`](https://github.com/IMaugrenI/tof_container_pulse) | read-only statische Statusseiten |
-| lokale Dokumente mit sichtbaren Belegen durchsuchen willst | [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) | lokale Indexierung, Suche, belegte Antworten |
-| lokale KI kontrolliert auf eine Quelle anwenden willst | [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) | read-only Quelle + Sandbox-Ausgabe |
-| sensible lokale Fallakten strukturieren willst | [`local_case_organizer`](https://github.com/IMaugrenI/local_case_organizer) | Import, Register, Timeline, Exportpaket |
-| zuerst die Architektur verstehen willst | [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) | öffentliche Karte der Repo-Familie und Systemideen |
+## Vier ergänzende Aufgabenbereiche
 
-**Als erster lauffähiger Einstieg ist `tof_container_pulse` am leichtesten.**  
-Jedes lauffähige Produkt-Repo hat jetzt ein `START_HERE.md` mit Klonen → Erststart → Erfolgsprüfung → Alltag.
+**Observe → Ground → Generate → Structure**
 
-## Was dieses Profil ist
+- **Observe:** Zustand lokaler Infrastruktur sichtbar machen.
+- **Ground:** Informationen mit Quellen und Kontext auffinden.
+- **Generate:** KI in einem begrenzten Arbeitsbereich einsetzen.
+- **Structure:** Material zu geordneten, überprüfbaren Ergebnissen weiterverarbeiten.
 
-Dieses Profil ist bewusst eine gemischte öffentliche Oberfläche:
+Das sind **eigenständige Projekte**. Die Darstellung behauptet weder ein bereits vollständig integriertes Gesamtprodukt noch einen automatisch verbundenen End-to-End-Ablauf. Mögliche Kombinationen brauchen ausdrücklich definierte Schnittstellen und Zuständigkeiten.
 
-- ein Portfolio für technische Leser, Arbeitgeber und Kollaborationspartner
-- eine Open-Source-Werkbank für kleine local-first Werkzeuge
-- eine öffentliche Dokumentationsschicht für die Grenze einer größeren privaten ToF / V’eth Systemlinie
+## Architektur und Methoden
 
-## Für wen es gedacht ist
+- [ToF Showcase](https://github.com/IMaugrenI/tof-showcase) — öffentlicher Einstieg in die Projektfamilie und ihre Zusammenhänge.
+- [Architekturreferenz (V7)](https://github.com/IMaugrenI/tof-v7-public-frame) — versionsbezogene öffentliche Referenz für Systemgrenzen, Zuständigkeiten und Architekturprinzipien. „V7“ ist eine ältere interne Bezeichnung, keine Voraussetzung zum Verständnis der aktuellen Projekte.
+- [Modulideen](https://github.com/IMaugrenI/tof-module-ideas), [Recovery Workbench](https://github.com/IMaugrenI/tof-legacy-recovery-workbench) und [Bridge Planning](https://github.com/IMaugrenI/tof-bridge-planning-method) — ergänzende Methoden- und Explorations-Repositories.
 
-- Recruiter und Arbeitgeber, die meine Systemarchitektur, Linux/Docker-Disziplin und KI-orchestrierten Build-Workflow verstehen wollen
-- Builder und Self-Hoster, die prüfbare lokale Werkzeuge ausführen, anpassen oder daraus lernen wollen
-- technische Leser, die eine public-safe Karte der größeren privaten ToF / V’eth Projektlinie suchen
+## Meine Arbeitsweise
 
-## Was es nicht ist
+1. **Architektur definieren:** Zweck, Komponenten, Datengrenzen, Verantwortlichkeiten und Fehlerfälle.
+2. **KI für die Implementierung einsetzen:** lokale KI mit konkreten Aufträgen und Grenzen steuern.
+3. **Ergebnisse prüfen:** Nachweise sichten, Fehler korrigieren und relevante Verträge kontrollieren.
+4. **Betrieb beherrschbar halten:** lokale Ausführung, dokumentierte Start-/Stop-Wege und begrenzte Rechte bevorzugen.
+5. **Gezielt veröffentlichen:** öffentliche Beispiele und nachvollziehbare Dokumentation teilen, ohne private Betriebsdetails offenzulegen.
 
-Dieses Profil ist nicht die vollständige private Runtime, kein öffentlicher Spiegel des internen Systems und kein Anspruch, jede Zeile ohne KI-Unterstützung manuell geschrieben zu haben.
+Ein erheblicher Teil des Codes und der Dokumentation in diesen Repositories entsteht KI-gestützt. Mein Schwerpunkt liegt auf Architekturentscheidungen, der Steuerung der Umsetzung, der Ergebnisprüfung und dem Betrieb. Ich stelle KI-generierten Code nicht als vollständig von Hand geschrieben dar.
 
-Es ist auch kein unkontrollierter KI-Output-Dump. Der Punkt ist das Gegenteil: Die öffentlichen Artefakte hier sind auf Grenzen, Review, Trennung und kontrollierte lokale Ausführung ausgelegt.
+## Umfang und Entwicklungsstand
 
-## Repo-Familie auf einen Blick
+Die öffentlichen Repositories zeigen konkrete Werkzeuge und Architekturansätze. Sie sind **weder** ein Spiegel privater Runtimes **noch** eine pauschale Produktionsfreigabe aller Prototypen oder ein Nachweis bereits integrierter Einzelprojekte. Die jeweiligen READMEs und Schnellstarts beschreiben den tatsächlich verfügbaren Funktionsumfang.
 
-### Produktlinie
+**Technische Schwerpunkte:** Linux, Docker/Compose, Self-Hosting, lokale LLMs, Wissenssuche, modulare Architektur und kontrollierte KI-gestützte Entwicklung.
 
-1. [`tof_container_pulse`](https://github.com/IMaugrenI/tof_container_pulse)  
-   Lokaler Docker-Host-Status-Viewer mit One-Glance-Monitoring, optionalem Multi-Host-Modus und statischer HTML-Ausgabe
+**Weiterbildung:** Linux Foundation — Introduction to Linux (LFS101x).
 
-2. [`local_case_organizer`](https://github.com/IMaugrenI/local_case_organizer)  
-   Lokaler Dossier-Builder für sensible Fallakten, Timelines und Exportpakete
+## Kontakt und Sprache
 
-3. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder)  
-   Lokaler KI-Builder mit kontrollierten Quellgrenzen und Sandbox-Ausgabe
-
-4. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge)  
-   Lokale Dokumenten-Indexierung, Evidenzsuche und grounded Question Answering
-
-### Architektur / Framing
-
-5. [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase)  
-   Öffentlicher Architektur-Einstieg für die breitere Systemlinie
-
-6. [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame)  
-   Reduzierter öffentlicher Rahmen der V7-Architektur und ihrer Grenzen
-
-### Methode / Übergang
-
-7. [`tof-module-ideas`](https://github.com/IMaugrenI/tof-module-ideas)  
-   Öffentlicher, sicherer Ideenraum für größere Modulkandidaten vor Runtime-Umsetzung
-
-8. [`tof-legacy-recovery-workbench`](https://github.com/IMaugrenI/tof-legacy-recovery-workbench)  
-   Recovery-Workbench für älteres gemischtes Material und disziplinierte Extraktion
-
-9. [`tof-bridge-planning-method`](https://github.com/IMaugrenI/tof-bridge-planning-method)  
-   Bridge-Planning-Schicht zur Übersetzung vorbereiteter Blöcke in strukturierte Kandidaten
-
-## Was dieses Profil zeigt
-
-Diese Repositories sollen keinen klassischen Beweis für manuell Zeile für Zeile geschriebenen Code darstellen.
-
-Sie zeigen, wie ich Ideen in kontrollierte, prüfbare lokale Systeme überführe durch:
-
-- klare Architektur vor Umsetzung
-- explizite Grenzen zwischen Räumen und Zuständigkeiten
-- KI-geführte Aufbauarbeit statt blinder KI-Ausgabe
-- grounded Input vor Generierung
-- Sandbox-Ausgabe statt stiller Vermischung
-- public-safe Dokumentation statt Leaks aus privater Runtime
-- lokale, self-hosted und direkt prüfbare Systemdenke
-
-## Meine Rolle
-
-Meine Rolle in dieser Arbeit ist:
-
-- Systemarchitektur
-- Trennungs- und Grenzlogik
-- Orchestrierung KI-gestützter Build-Workflows
-- Review und Korrektur erzeugter Ausgaben
-- Runtime-Form, Dokumentation und öffentliche Rahmung
-- Linux / Docker / self-hosted Betriebsdisziplin
-
-Der konkrete Text und Code in diesen öffentlichen Repositories ist stark KI-gestützt entstanden. Mein Anteil liegt in der Struktur dahinter: was existieren soll, was getrennt bleiben muss, wie das System gelesen werden soll, welche Grenzen halten müssen und was als zulässiges Ergebnis gilt.
-
-## Proof of Work
-
-- privates Laufzeitsystem aktiv seit März 2025
-- auf eigenem Linux-Server architektonisch aufgebaut, gesteuert und betrieben
-- eine private Multi-Container-Runtime auf dem eigenen Linux-Server; die genaue Containerzahl verändert sich mit dem System
-- öffentliche System-Ausschnitte verfügbar über `tof_container_pulse`, `local_case_organizer`, `tof_local_builder` und `tof_local_knowledge`
-- Discord- und Telegram-Anbindungen existieren im größeren privaten Projektkontext
-
-## Wobei ich helfen kann
-
-- KI-orchestrierter Systemaufbau
-- lokale KI- und self-hosted technische Workflows
-- Architektur, Systemgrenzen und Service-Trennung
-- die Überführung von Ideen in strukturierte technische Artefakte über KI-gestützte Ausführung
-- Dokumentation, Review und technisch ehrliches öffentliches Framing
-
-## Zertifikate
-
-- Linux Foundation — Introduction to Linux (LFS101x)
-
-## Kontakt
-
-LinkedIn: [Jakob Kessler](https://www.linkedin.com/in/jakob-kessler-595b393b7)
-GitHub: [IMaugrenI](https://github.com/IMaugrenI)
+- [LinkedIn](https://www.linkedin.com/in/jakob-kessler-595b393b7)
+- [GitHub](https://github.com/IMaugrenI)
+- [English version of this profile](README.md)
