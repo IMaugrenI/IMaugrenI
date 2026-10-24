@@ -1,138 +1,70 @@
 <p align="center">
-  <img src="assets/banner/ToF_Banner.png" alt="ToF Banner" width="100%" />
+  <img src="assets/banner/ToF_Banner.png" alt="ToF Systems banner" width="100%" />
 </p>
 
-# Jakob Kessler
-Linux · Docker · System Architecture · AI-Orchestrated Build Work
+# Jakob Kessler | ToF Systems
 
-I design and build local-first systems that should stay understandable, controllable, inspectable, and cleanly separated.
+**Local-First AI & Systems Engineering**  
+Linux · Docker · Self-Hosted AI · System Architecture · Human-Directed AI Development
 
-This profile is my public working surface: part portfolio, part open-source workspace, and part public documentation layer for a larger private local-first system line.
+I design and develop local-first software and AI-assisted systems with an emphasis on clear responsibilities, controlled data flows, inspectable results, and practical operation.
 
-I do not primarily work as a traditional line-by-line programmer. My main work is system architecture, boundary design, orchestration, review, runtime shape, and public framing. I use AI as a constrained execution layer inside processes that I define, limit, inspect, and validate.
+**ToF Systems** is the umbrella for my independent system architecture and development work. Here you will find runnable public tools, architectural references, and methods for building software with AI assistance under human direction.
 
-Since 2025, I have been building the private project line **ToF / V’eth (V7)** as a layered local system with clear spaces, disciplined handoffs, and a fixed processing chain. The public repositories on this profile are reduced, public-safe slices of that broader work.
+## Explore the projects
 
-> German mirror: `README_DE.md`
+| Project | What it helps you do |
+| --- | --- |
+| [Container Pulse](https://github.com/IMaugrenI/tof_container_pulse) | Check Docker, host, storage, port, service, and security signals through local read-only status pages. |
+| [Local Knowledge](https://github.com/IMaugrenI/tof_local_knowledge) | Index and search local documents and generate answers grounded in retrieved evidence. |
+| [Local Builder](https://github.com/IMaugrenI/tof_local_builder) | Work with local AI models while keeping source access and generated output in distinct, controlled spaces. |
+| [Local Case Organizer](https://github.com/IMaugrenI/local_case_organizer) | Organize local documents into traceable registers, timelines, and export packages. |
 
-## New here? Choose by goal
+**A useful starting point:** [Container Pulse — first run](https://github.com/IMaugrenI/tof_container_pulse/blob/main/START_HERE.md). Each runnable repository documents its own setup, supported platforms, limitations, and current status.
 
-You do not need to understand the whole ToF/V’eth project line before trying a repo.
+<p align="center">
+  <a href="https://github.com/IMaugrenI/tof_container_pulse">
+    <img src="https://raw.githubusercontent.com/IMaugrenI/tof_container_pulse/main/assets/screenshots/pulse-main-1.png" alt="Container Pulse local dashboard preview" width="90%" />
+  </a>
+</p>
 
-| If you want to... | Start here | What you get |
-| --- | --- | --- |
-| see local Docker/host status quickly | [`tof_container_pulse`](https://github.com/IMaugrenI/tof_container_pulse) | read-only static status pages |
-| search local documents with visible evidence | [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge) | local indexing, search, grounded answers |
-| use local AI against a controlled source | [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder) | read-only source + sandboxed output |
-| organize sensitive local case files | [`local_case_organizer`](https://github.com/IMaugrenI/local_case_organizer) | imports, register, timeline, export package |
-| understand the architecture first | [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase) | public map of the repo family and system ideas |
+## Four complementary roles
 
-**For a first runnable example, `tof_container_pulse` is the lightest entry.**  
-Each runnable product repo now has a `START_HERE.md` with clone → first run → success check → everyday use.
+**Observe → Ground → Generate → Structure**
 
-## What this profile is
+- **Observe:** see the state of local infrastructure.
+- **Ground:** find relevant information with sources and context.
+- **Generate:** use AI in a bounded workspace.
+- **Structure:** turn material into organized, reviewable artifacts.
 
-This profile is intentionally a mixed public surface:
+These are **independent projects**, not a claim that a single integrated product or automatic end-to-end pipeline already exists. Where combination is useful, the interfaces and responsibilities must remain explicit.
 
-- a portfolio for technical readers, employers, and collaborators
-- an open-source workspace for small local-first tools
-- a public documentation layer for the boundary of a larger private ToF / V’eth system line
+## Architecture and methods
 
-## Who it is for
+- [ToF Showcase](https://github.com/IMaugrenI/tof-showcase) — the public guide to the project family and how the parts relate.
+- [Architecture Reference (V7)](https://github.com/IMaugrenI/tof-v7-public-frame) — a version-tagged public reference for boundaries, responsibilities, and system design. “V7” is an internal historical label, not a prerequisite for understanding the current projects.
+- [Module Ideas](https://github.com/IMaugrenI/tof-module-ideas), [Recovery Workbench](https://github.com/IMaugrenI/tof-legacy-recovery-workbench), and [Bridge Planning](https://github.com/IMaugrenI/tof-bridge-planning-method) — supporting method and exploration repositories.
 
-- recruiters and employers who want to understand my system architecture, Linux/Docker discipline, and AI-orchestrated build workflow
-- builders and self-hosters who want inspectable local tools they can run, adapt, or learn from
-- technical readers who want a public-safe map of the broader private ToF / V’eth project line
+## How I work
 
-## What it is not
+1. **Define the architecture:** purpose, components, data boundaries, responsibilities, and failure conditions.
+2. **Use AI for implementation:** direct local AI tools with explicit tasks and constraints.
+3. **Review the result:** inspect evidence, correct problems, and check the relevant contracts.
+4. **Keep operation controlled:** prefer local execution, documented start/stop paths, and limited permissions.
+5. **Publish selectively:** share public-safe examples and honest technical documentation without exposing private operational details.
 
-This profile is not the full private runtime, not a public mirror of the internal system, and not a claim that every line was manually written without AI assistance.
+AI helps produce a substantial part of the code and documentation in these repositories. My work centers on architectural decisions, specifying and coordinating implementation, reviewing outcomes, and operating the systems. I do not present AI-generated code as manually authored line by line.
 
-It is also not an uncontrolled AI-output dump. The point is the opposite: public artifacts here are shaped around boundaries, review, separation, and controlled local execution.
+## Scope and status
 
-## Repo family at a glance
+The public repositories demonstrate specific tools and design approaches. They are **not** a mirror of private runtimes, a guarantee that all prototypes are production-ready, or proof that unrelated repositories are already integrated. Check each project's README and quickstart for its actual capabilities and limitations.
 
-### Product line
+**Technical focus:** Linux, Docker/Compose, self-hosted services, local LLMs, knowledge retrieval, modular architectures, and controlled AI-assisted development.
 
-1. [`tof_container_pulse`](https://github.com/IMaugrenI/tof_container_pulse)  
-   Local Docker host status viewer with one-glance monitoring, optional multi-host mode, and static HTML output
+**Training:** Linux Foundation — Introduction to Linux (LFS101x).
 
-2. [`local_case_organizer`](https://github.com/IMaugrenI/local_case_organizer)  
-   Local dossier builder for sensitive case files, timelines, and export packages
+## Contact and language
 
-3. [`tof_local_builder`](https://github.com/IMaugrenI/tof_local_builder)  
-   Local AI builder with controlled source boundaries and sandboxed output
-
-4. [`tof_local_knowledge`](https://github.com/IMaugrenI/tof_local_knowledge)  
-   Local document indexing, evidence search, and grounded question answering
-
-### Architecture / framing
-
-5. [`tof-showcase`](https://github.com/IMaugrenI/tof-showcase)  
-   Public architecture entry point for the broader system line
-
-6. [`tof-v7-public-frame`](https://github.com/IMaugrenI/tof-v7-public-frame)  
-   Reduced public frame of the V7 architecture and its boundaries
-
-### Method / transition
-
-7. [`tof-module-ideas`](https://github.com/IMaugrenI/tof-module-ideas)  
-   Public-safe idea space for larger module candidates before runtime implementation
-
-8. [`tof-legacy-recovery-workbench`](https://github.com/IMaugrenI/tof-legacy-recovery-workbench)  
-   Recovery workbench for older mixed material and disciplined extraction
-
-9. [`tof-bridge-planning-method`](https://github.com/IMaugrenI/tof-bridge-planning-method)  
-   Bridge-planning layer for translating prepared blocks into structured candidates
-
-## What this profile shows
-
-These repositories are not meant to present manual hand-coded proof in the traditional sense.
-
-They show how I turn ideas into controlled, inspectable local systems through:
-
-- clear architecture before implementation
-- explicit boundaries between spaces and responsibilities
-- AI-directed build execution instead of blind AI output
-- grounded input before generation
-- sandboxed output instead of silent mixing
-- public-safe documentation instead of private-runtime leakage
-- local, self-hosted, and inspectable system thinking
-
-## My role
-
-My role in this work is:
-
-- system architecture
-- separation and boundary definition
-- orchestration of AI-assisted build workflows
-- review and correction of generated output
-- runtime shape, documentation, and public framing
-- Linux / Docker / self-hosted operating discipline
-
-The concrete text and code in these public repositories are heavily AI-assisted. What is mine is the structure behind them: what should exist, what must stay separate, how the system should be read, which boundaries must hold, and what counts as acceptable output.
-
-## Proof of work
-
-- private runtime active since March 2025
-- architected, directed, and operated on my own Linux server
-- a multi-container private runtime on my own Linux server; the exact container count changes as the system evolves
-- public system slices available through `tof_container_pulse`, `local_case_organizer`, `tof_local_builder`, and `tof_local_knowledge`
-- Discord and Telegram integrations exist in the broader private project context
-
-## What I can help with
-
-- AI-orchestrated system building
-- local AI and self-hosted technical workflows
-- architecture, system boundaries, and service separation
-- turning ideas into structured technical artifacts through AI-assisted execution
-- documentation, review, and technically honest public framing
-
-## Certifications
-
-- Linux Foundation — Introduction to Linux (LFS101x)
-
-## Contact
-
-LinkedIn: [Jakob Kessler](https://www.linkedin.com/in/jakob-kessler-595b393b7)
-GitHub: [IMaugrenI](https://github.com/IMaugrenI)
+- [LinkedIn](https://www.linkedin.com/in/jakob-kessler-595b393b7)
+- [GitHub](https://github.com/IMaugrenI)
+- [Deutsche Version dieses Profils](README_DE.md)
